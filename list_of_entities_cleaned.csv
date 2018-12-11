@@ -1,0 +1,3001 @@
+,col
+0,[]
+1,['Exxon Mobil ']
+2,['NDAQ']
+3,[]
+4,[]
+5,[]
+6,"['EW', 'RE', 'PSX', 'REG']"
+7,['Ecolab ']
+8,['Quest Diagnostics']
+9,['Duke Realty ']
+10,[]
+11,[]
+12,[]
+13,"['CA', 'American Electric Power', 'AME', 'EA', 'EL', 'RE', 'ES', 'IT']"
+14,"['Ameriprise Financial', 'AMP']"
+15,['IR']
+16,['Cognizant Technology Solutions']
+17,[]
+18,"['Eversource Energy', 'ES']"
+19,"['Foot Locker ', 'FL']"
+20,"['ED', 'DE', 'RE', 'FE', 'IT', 'SNA', 'UA']"
+21,[]
+22,[]
+23,[]
+24,[]
+25,[]
+26,['DG']
+27,['Corning ']
+28,['CI']
+29,"['Juniper Networks', 'JNPR']"
+30,"['Wells Fargo', 'JPM', 'PM']"
+31,"['CA', 'SCANA ']"
+32,"['Comerica ', 'CMA', 'MA']"
+33,['IP']
+34,[]
+35,['HRS']
+36,"['Hewlett Packard Enterprise', 'HP ', 'HP', 'HPE', 'HPQ']"
+37,['Chipotle Mexican Grill']
+38,['Consolidated Edison']
+39,[]
+40,['Dish Network']
+41,['UNH']
+42,"['JPM', 'PM']"
+43,[]
+44,"['Chipotle Mexican Grill', 'CMG']"
+45,[]
+46,"['FOXA', 'FOX']"
+47,"['Microsoft ', 'Netflix ']"
+48,[]
+49,[]
+50,[]
+51,"['FLS', 'FL']"
+52,[]
+53,['General Dynamics']
+54,['Comcast ']
+55,['ADM']
+56,[]
+57,"['Fluor ', 'FLR', 'FL']"
+58,['Microsoft ']
+59,['Western Digital']
+60,"['Regeneron', 'RE', 'REG', 'REGN']"
+61,['Kroger ']
+62,['Cognizant Technology Solutions']
+63,"['Anthem ', 'EA']"
+64,"['Pentair ', 'PNR']"
+65,"['Baxter International ', 'BAX', 'BA']"
+66,[]
+67,"['Henry Schein', 'HSIC']"
+68,"['Apple ', 'Hasbro ', 'Starbucks ']"
+69,[]
+70,"['Kroger ', 'EW']"
+71,"['PH', 'PHM']"
+72,"['Tyson Foods', 'TSN']"
+73,[]
+74,[]
+75,"['PayPal', 'PYPL']"
+76,['Kraft Heinz ']
+77,['NiSource ']
+78,['PNC']
+79,['Stericycle ']
+80,[]
+81,[]
+82,"['ADP', 'PM']"
+83,['UHS']
+84,['eBay ']
+85,['Aetna ']
+86,['Home Depot']
+87,"['RE', 'IT']"
+88,"['CA', 'Key', 'SCANA ', 'SCG']"
+89,"['CBS ', 'CBS', 'CB']"
+90,"['Netflix ', 'FL', 'MAR', 'MA', 'NFLX', 'WY', 'WYN', 'WYNN']"
+91,[]
+92,"['Incyte', 'MRK']"
+93,[]
+94,[]
+95,[]
+96,"['PNC Financial Services', 'PNC']"
+97,[]
+98,['Stryker ']
+99,['Comcast ']
+100,"['Albemarle ', 'Ross Stores']"
+101,['Allergan']
+102,['Home Depot']
+103,[]
+104,"['FB', 'GD']"
+105,[]
+106,"['MAR', 'MA']"
+107,"['Public Storage', 'GE']"
+108,[]
+109,[]
+110,['Alphabet Inc Class A']
+111,['Becton Dickinson']
+112,[]
+113,"['Kraft Heinz ', 'Progressive ']"
+114,"['GM', 'MGM']"
+115,['Nucor ']
+116,"['ED', 'RE', 'ES', 'IT', 'IR', 'ICE', 'NI', 'DIS']"
+117,['Pepsi']
+118,"['NetApp', 'TAP', 'NTAP']"
+119,['Pepsi']
+120,['LyondellBasell']
+121,"['Delta Air Lines ', 'EW']"
+122,[]
+123,[]
+124,"['Dominion Energy', 'RE']"
+125,['Raytheon ']
+126,[]
+127,['Ecolab ']
+128,[]
+129,"['Ventas ', 'RE', 'IT']"
+130,"['Intuitive Surgical ', 'ISRG']"
+131,"['TechnipFMC', 'FMC']"
+132,"['EA', 'GS', 'NI']"
+133,['IP']
+134,[]
+135,"['CA', 'DISCA', 'DIS']"
+136,['Rockwell Automation ']
+137,['Pfizer ']
+138,"['CI', 'CCI']"
+139,"['PPL ', 'PPL']"
+140,"['Electronic Arts', 'EA']"
+141,[]
+142,[]
+143,[]
+144,"['Intuitive Surgical ', 'ISRG']"
+145,"['Nektar Therapeutics', 'BMY', 'NKTR']"
+146,['Kimco Realty']
+147,[]
+148,[]
+149,"['Intel ', 'Netflix ', 'FL', 'MAR', 'MA', 'NFLX']"
+150,['MMM']
+151,[]
+152,['Jacobs Engineering Group']
+153,"['Philip Morris International', 'GT']"
+154,[]
+155,[]
+156,[]
+157,['GE']
+158,[]
+159,[]
+160,[]
+161,"['International Paper', 'IP']"
+162,['Anthem ']
+163,"['Alaska Air Group ', 'Varian Medical Systems', 'ALK', 'GGP', 'VAR']"
+164,[]
+165,['General Mills']
+166,"['Boston Scientific', 'DE', 'ES']"
+167,[]
+168,['Starbucks ']
+169,[]
+170,['HD']
+171,"['SBA Communications', 'BAC', 'BA', 'SBAC']"
+172,"['Key', 'MRK']"
+173,['Gap ']
+174,"['General Electric', 'GE', 'MAR', 'MA']"
+175,[]
+176,[]
+177,"['Eastman Chemical', 'EMN']"
+178,[]
+179,['FE']
+180,"['RE', 'IT']"
+181,[]
+182,"['Quest Diagnostics', 'DG', 'DGX']"
+183,['Microchip Technology']
+184,['International Paper']
+185,"['DE', 'CRM']"
+186,"['DAL', 'HD', 'VFC']"
+187,['Netflix ']
+188,[]
+189,[]
+190,[]
+191,[]
+192,"['Cerner', 'CERN']"
+193,[]
+194,[]
+195,[]
+196,['Dominion Energy']
+197,[]
+198,"['Humana ', 'HUM']"
+199,"['Anthem ', 'ANTM']"
+200,[]
+201,[]
+202,['Nucor ']
+203,['Corning ']
+204,['Sempra Energy']
+205,"['AMZN', 'FDX', 'UPS']"
+206,"['Applied Materials ', 'Baxter International ']"
+207,"['Raytheon ', 'RTN']"
+208,"['Stryker ', 'SYK']"
+209,"['Sealed Air', 'CF']"
+210,[]
+211,"['Exelon ', 'EXC']"
+212,"['Sysco ', 'SYY']"
+213,"['Ameriprise Financial', 'AMP']"
+214,"['CA', 'PACCAR ']"
+215,['Apple ']
+216,"['APA', 'EA', 'RE']"
+217,['Netflix ']
+218,"['IDEXX Laboratories', 'DE', 'IDXX']"
+219,"['Rockwell Collins', 'United Technologies']"
+220,[]
+221,"['BorgWarner', 'Ford Motor', 'BWA']"
+222,"['CA', 'URI', 'HP ', 'MO', 'ED', 'DE', 'ES', 'FE', 'IT', 'HAS', 'HP', 'ICE', 'UA', 'UAL']"
+223,[]
+224,"['Michael Kors Holdings', 'KO', 'KORS']"
+225,[]
+226,[]
+227,"['CA', 'Apple ', 'Broa']"
+228,[]
+229,[]
+230,[]
+231,[]
+232,"['Automatic Data Processing', 'ADP']"
+233,[]
+234,[]
+235,['Wells Fargo']
+236,"['Activision Blizzard', 'ATVI']"
+237,"['Akamai Technologies ', 'AKAM']"
+238,[]
+239,['CTAS']
+240,[]
+241,[]
+242,[]
+243,[]
+244,"['EW', 'RE', 'IR']"
+245,[]
+246,['AJG']
+247,['Wells Fargo']
+248,"['GOOGL', 'GOOG']"
+249,"['Advanced Micro Devices ', 'AMD']"
+250,"['FLIR Systems', 'FLIR', 'FL', 'IR']"
+251,"['International Paper', 'IP']"
+252,[]
+253,"['CenturyLink ', 'CTL']"
+254,[]
+255,['Schlumberger ']
+256,[]
+257,['Intel ']
+258,"['Franklin Resources', 'EW', 'RE', 'BEN', 'IR', 'MA', 'MAT']"
+259,[]
+260,['Genuine Parts']
+261,"['CME Group ', 'CME']"
+262,"['Citigroup ', 'Key', 'Wells Fargo', 'PNC']"
+263,"['FB', 'FBHS']"
+264,['BlackRock']
+265,"['JPM', 'PM']"
+266,"['Nike', 'ED', 'RE']"
+267,"['Alphabet Inc Class A', 'Apple ']"
+268,"['Berkshire Hathaway', 'JPM', 'PM']"
+269,[]
+270,[]
+271,[]
+272,"['DXC Technology', 'DXC']"
+273,[]
+274,"['Mastercard ', 'MA']"
+275,[]
+276,[]
+277,"['Ross Stores', 'ROST']"
+278,['State Street ']
+279,['Qorvo']
+280,['PayPal']
+281,[]
+282,[]
+283,[]
+284,['GD']
+285,['Kraft Heinz ']
+286,"['Prologis', 'PLD']"
+287,[]
+288,['Lockheed Martin ']
+289,"['EQR', 'TAP']"
+290,"['Aetna ', 'CVS Health', 'CVS']"
+291,"['CA', 'Crown Castle International ', 'MO', 'ES', 'FE', 'MON', 'PPL']"
+292,[]
+293,[]
+294,[]
+295,[]
+296,[]
+297,['AmerisourceBergen ']
+298,"['CBS ', 'CBS', 'CB']"
+299,['DIS']
+300,['Apple ']
+301,"['Costco Wholesale ', 'COST']"
+302,['FB']
+303,['Northern Trust ']
+304,['Netflix ']
+305,[]
+306,[]
+307,[]
+308,[]
+309,[]
+310,['General Electric']
+311,"['Charter Communications', 'CHTR']"
+312,[]
+313,[]
+314,"['Netflix ', 'FL', 'MAR', 'MA', 'NFLX', 'WY', 'WYN', 'WYNN']"
+315,"['MS', 'MSI']"
+316,"['General Mills', 'Kellogg ', 'Kraft Heinz ']"
+317,"['Key', 'PNC']"
+318,"['Microsoft ', 'Starbucks ', 'Symantec ']"
+319,[]
+320,[]
+321,[]
+322,"['Lennar ', 'CI']"
+323,[]
+324,[]
+325,['Netflix ']
+326,[]
+327,[]
+328,['Pepsi']
+329,['IT']
+330,['Mastercard ']
+331,['Ventas ']
+332,[]
+333,[]
+334,['United Parcel Service']
+335,[]
+336,[]
+337,[]
+338,[]
+339,"['CVS Health', 'Express Scripts', 'CVS']"
+340,[]
+341,[]
+342,['Salesforce']
+343,['Michael Kors Holdings']
+344,['Expedia ']
+345,"['CA', 'CAG']"
+346,['LKQ']
+347,['AWK']
+348,"['FLIR Systems', 'FLIR', 'FL', 'IR']"
+349,[]
+350,[]
+351,"['Incyte', 'INCY']"
+352,['Henry Schein']
+353,[]
+354,['Progressive ']
+355,"['Loews ', 'EW']"
+356,[]
+357,[]
+358,[]
+359,[]
+360,[]
+361,"['Morgan Stanley', 'AMZN', 'WMT', 'WM']"
+362,"['Broa', 'Charter Communications', 'CHTR']"
+363,[]
+364,['ES']
+365,"['Dollar General', 'Salesforce', 'Visa ']"
+366,['Pinnacle West Capital']
+367,"['Anthem ', 'Express Scripts', 'EW']"
+368,['Hewlett Packard Enterprise']
+369,"['Hewlett Packard Enterprise', 'HP ', 'HP']"
+370,"['Hasbro ', 'Mattel ']"
+371,"['United Parcel Service', 'UPS']"
+372,"['EA', 'RE', 'ES', 'BEN', 'IT', 'GE', 'RL']"
+373,['NextEra Energy']
+374,"['Nordstrom', 'Target ']"
+375,"['CL', 'CLX']"
+376,['Nike']
+377,['Campbell Soup']
+378,"['Avery Dennison ', 'Corning ', 'Intel ']"
+379,"['American Electric Power', 'AEP']"
+380,['Valero Energy']
+381,[]
+382,[]
+383,"['Incyte', 'GM', 'INCY']"
+384,"['General Dynamics', 'GD', 'UA']"
+385,"['ESS', 'Celgene ', 'CELG', 'EL', 'RE', 'ES', 'IR']"
+386,[]
+387,[]
+388,[]
+389,"['NextEra Energy', 'NEE']"
+390,[]
+391,[]
+392,['IP']
+393,['Target ']
+394,[]
+395,['Broa']
+396,[]
+397,"['Berkshire Hathaway', 'Oracle ', 'EW', 'HIG']"
+398,[]
+399,[]
+400,"['AmerisourceBergen ', 'Walgreens Boots Alliance', 'ABC', 'BA', 'WBA']"
+401,['Rockwell Automation ']
+402,"['Rockwell Collins', 'United Technologies']"
+403,[]
+404,"['Key', 'CI', 'CCI', 'MKC']"
+405,['GS']
+406,[]
+407,"['RE', 'IT']"
+408,['Campbell Soup']
+409,[]
+410,[]
+411,[]
+412,['RE']
+413,"['Starbucks ', 'SBUX']"
+414,['Oracle ']
+415,['IT']
+416,['Cerner']
+417,"['MGM Resorts International', 'GM', 'MGM']"
+418,['DowDuPont']
+419,"['FB', 'GOOGL', 'GOOG']"
+420,[]
+421,"['CME Group ', 'CME']"
+422,"['CA', 'Baker Hughes', 'Halliburton ', 'Nike']"
+423,[]
+424,"['CF Industries Holdings ', 'CF']"
+425,"['CBS ', 'Viacom ', 'CBS', 'CB']"
+426,['ConocoPhillips']
+427,"['Key', 'Norwegian Cruise Line', 'CL', 'LH', 'NCLH']"
+428,"['General Dynamics', 'Lockheed Martin ']"
+429,['Morgan Stanley']
+430,[]
+431,[]
+432,['Total System Services']
+433,['Kellogg ']
+434,[]
+435,"['Stryker ', 'EA', 'SYK']"
+436,['Ventas ']
+437,[]
+438,['Symantec ']
+439,['Apple ']
+440,[]
+441,['IP']
+442,['Hilton Worldwide Holdings ']
+443,['Progressive ']
+444,['SHW']
+445,"['CI', 'JCI']"
+446,[]
+447,"['Nucor ', 'NUE']"
+448,['Time Warner ']
+449,[]
+450,"['Carmax ', 'Masco ']"
+451,['GM']
+452,['Wells Fargo']
+453,"['DISH', 'DIS']"
+454,"['ES', 'FMC', 'IT']"
+455,[]
+456,"['Republic Services ', 'Stericycle ', 'CL', 'RSG', 'RCL', 'SRCL']"
+457,[]
+458,[]
+459,"['HP ', 'HP']"
+460,['Netflix ']
+461,"['CB', 'MAR', 'MA']"
+462,"['Apple ', 'AAP', 'AAPL']"
+463,[]
+464,[]
+465,[]
+466,[]
+467,[]
+468,['Amgen ']
+469,"['Broa', 'Intel ']"
+470,['ES']
+471,[' Plc']
+472,[]
+473,['Exxon Mobil ']
+474,"['AMZN', 'CNC']"
+475,[]
+476,['LLY']
+477,['Caterpillar ']
+478,[]
+479,['Whirlpool ']
+480,[]
+481,"['NextEra Energy', 'NEE']"
+482,['Dollar General']
+483,[]
+484,"['Illinois Tool Works', 'IT', 'ITW']"
+485,"['Lincoln National', 'LNC']"
+486,[]
+487,['Intercontinental Exchange']
+488,[]
+489,[]
+490,['Applied Materials ']
+491,"['CI', 'CCI']"
+492,[]
+493,[]
+494,[]
+495,['Celgene ']
+496,['Fluor ']
+497,"['Intuitive Surgical ', 'HAS', 'ISRG', 'PG']"
+498,[]
+499,"['CL', 'PH']"
+500,['Autodesk ']
+501,"['GM', 'MGM']"
+502,[]
+503,[]
+504,['Ameren ']
+505,"['Target ', 'BA']"
+506,"['PNC Financial Services', 'PNC']"
+507,"['General Motors', 'GM']"
+508,['Brighthouse Financial ']
+509,"['IT', 'NI']"
+510,"['Illumina ', 'GS', 'ILMN']"
+511,"['Microsoft ', 'IBM']"
+512,"['Home Depot', 'LOW']"
+513,['Morgan Stanley']
+514,['Abbott Laboratories']
+515,[]
+516,[]
+517,"['Allstate ', 'ALL']"
+518,"['FL', 'GT']"
+519,"['Comcast ', ' Plc']"
+520,[]
+521,"['Lockheed Martin ', 'Northrop Grumman ']"
+522,"['RE', 'IT']"
+523,"['CVS Health', 'Walgreens Boots Alliance', 'CVS']"
+524,[]
+525,[]
+526,[]
+527,"['TJX Companies ', 'TJX']"
+528,['IP']
+529,['Morgan Stanley']
+530,[]
+531,[]
+532,[]
+533,[]
+534,[]
+535,[]
+536,[]
+537,['Netflix ']
+538,"['CA', 'Stryker ', 'CAG', 'EW', 'RE', 'IR']"
+539,[]
+540,[]
+541,[]
+542,"['Halliburton ', 'HAL']"
+543,[]
+544,"['Boston Properties', 'BA', 'RE', 'IT', 'MA']"
+545,[]
+546,"['NRG Energy', 'NRG']"
+547,"['Nektar Therapeutics', 'NKTR']"
+548,[]
+549,[]
+550,"['EA', 'FL']"
+551,['Broa']
+552,[]
+553,[]
+554,[]
+555,['GWW']
+556,"['Netflix ', 'MAR', 'MA']"
+557,['UA']
+558,"['General Motors', 'GM']"
+559,['CA']
+560,[]
+561,"['Digital Realty Trust ', 'RE', 'IT']"
+562,[]
+563,[]
+564,['DowDuPont']
+565,"['Agilent Technologies ', 'RF']"
+566,[]
+567,['CME']
+568,"['Visa ', 'IBM']"
+569,[]
+570,"['Regeneron', 'RE', 'REG', 'REGN']"
+571,"['Kansas City Southern', 'Southern ']"
+572,[]
+573,[]
+574,[]
+575,['CF']
+576,['WRK']
+577,"['Equifax ', 'CF']"
+578,[]
+579,"['HP ', 'Microchip Technology', 'HP', 'MCHP']"
+580,[]
+581,"['FB', 'American Express ', 'AXP', 'FBHS', 'HRL', 'RL']"
+582,[]
+583,[]
+584,[]
+585,['Caterpillar ']
+586,"['Federal Realty Investment Trust', 'FRT']"
+587,[]
+588,['Wells Fargo']
+589,"['CA', 'ESS', 'APA', 'CAT', 'EA', 'EL', 'RE', 'ES', 'IR', 'MA', 'MU', 'NI', 'PH']"
+590,['PM']
+591,[]
+592,"['CenterPoint Energy', 'ED', 'DE', 'EA', 'RE', 'FE', 'IT', 'IR']"
+593,"['CVS Health', 'CVS']"
+594,"['Arconic ', 'ARNC']"
+595,['Amphenol ']
+596,"['ESS', 'Alexion Pharmaceuticals', 'ALXN', 'EW', 'RE', 'ES', 'IR']"
+597,"['Applied Materials ', 'Chevron ']"
+598,"['BlackRock', 'Northern Trust ', 'BLK', 'EW', 'NTRS']"
+599,['Apple ']
+600,[]
+601,"['CA', 'CAT', 'DVA', 'FOXA', 'FOX']"
+602,"['EW', 'COO', 'WAT']"
+603,"['NextEra Energy', 'Southern ', 'NEE']"
+604,[]
+605,['WEC']
+606,['FDX']
+607,['Starbucks ']
+608,"['State Street ', 'AAP', 'ARE', 'BA', 'CL', 'ED', 'COST', 'DE', 'EL', 'RE', 'ES', 'NUE', 'UA']"
+609,"['PPL ', 'PPL']"
+610,"['Baxter International ', 'Biogen ', 'ALL', 'BAX', 'BA']"
+611,[]
+612,[]
+613,"['Intercontinental Exchange', 'ICE']"
+614,"['Gap ', 'GPS']"
+615,['Kraft Heinz ']
+616,['Hewlett Packard Enterprise']
+617,['Southwest Airlines']
+618,[]
+619,"['Broa', 'EW', 'NWS']"
+620,"['Celgene ', 'CELG', 'EL']"
+621,[]
+622,['Baker Hughes']
+623,['FirstEnergy ']
+624,"['Crown Castle International ', 'CI', 'CCI']"
+625,"['KLAC', 'BK']"
+626,"['Comerica ', 'CMA', 'MA']"
+627,[]
+628,[]
+629,['Skyworks Solutions']
+630,[]
+631,['Comcast ']
+632,"['United Parcel Service', 'UPS']"
+633,['Netflix ']
+634,"['Equifax ', 'GT']"
+635,['Northrop Grumman ']
+636,['Gap ']
+637,[]
+638,['MMM']
+639,"['Ecolab ', 'Kraft Heinz ', 'CME', 'EOG', 'TJX']"
+640,[]
+641,[]
+642,[]
+643,['XL']
+644,['Constellation Brands']
+645,[]
+646,[]
+647,[]
+648,[]
+649,['TJX']
+650,"['Kraft Heinz ', 'KHC']"
+651,['NextEra Energy']
+652,"['Netflix ', 'FL', 'MAR', 'MA', 'NFLX', 'WY', 'WYN', 'WYNN']"
+653,[]
+654,[]
+655,['BlackRock']
+656,[]
+657,"['Verizon Communications', 'MU', 'VZ']"
+658,"['Alphabet Inc Class A', 'Apple ']"
+659,[]
+660,['Alliant Energy ']
+661,[]
+662,[]
+663,[]
+664,"['DRI', 'IP']"
+665,[]
+666,[]
+667,[]
+668,['NI']
+669,[]
+670,['Ford Motor']
+671,"['Amgen ', 'Celgene ']"
+672,[]
+673,[]
+674,"['Vertex Pharmaceuticals ', 'VRTX']"
+675,['Ventas ']
+676,['Intel ']
+677,['Morgan Stanley']
+678,[]
+679,"['Baker Hughes', 'Halliburton ', 'Schlumberger ']"
+680,"['Hologic', 'HOLX']"
+681,"['Devon Energy ', 'DVN']"
+682,['Amphenol ']
+683,"['CSX ', 'Lockheed Martin ', 'CSX']"
+684,"['Boston Scientific', 'Edwards Lifesciences']"
+685,[]
+686,['Booking Holdings ']
+687,[]
+688,['General Mills']
+689,"['DE', 'XRAY']"
+690,[]
+691,[]
+692,['COST']
+693,[]
+694,"['CI', 'IT']"
+695,"['Broa', 'Citigroup ', 'Netflix ', 'Wells Fargo', 'JPM', 'PM']"
+696,[]
+697,[]
+698,"['Aetna ', 'CVS']"
+699,[]
+700,['Kellogg ']
+701,['IT']
+702,"['Rockwell Collins', 'COL']"
+703,"['Netflix ', 'FL', 'MAR', 'MA', 'NFLX', 'WY', 'WYN', 'WYNN']"
+704,[]
+705,[]
+706,[]
+707,"['CA', 'PCAR']"
+708,"['BBY', 'HOG', 'KSS', 'NWL', 'CRM', 'WMT', 'WM']"
+709,['HBI']
+710,[]
+711,"['Mastercard ', 'MA']"
+712,[]
+713,"['CA', 'DISCA', 'DIS']"
+714,"['Boston Scientific', 'BSX']"
+715,['Darden Restaurants']
+716,"['Celgene ', 'Gilead Sciences']"
+717,"['FL', 'RL']"
+718,['Darden Restaurants']
+719,['NVDA']
+720,['Applied Materials ']
+721,"['Kellogg ', 'BA', 'RE']"
+722,"['CBS ', 'Viacom ', 'CBS', 'CB']"
+723,['Lockheed Martin ']
+724,"['Morgan Stanley', 'KO', 'HON', 'IP']"
+725,[]
+726,['Dollar General']
+727,"['Netflix ', 'FL', 'MAR', 'MA', 'NFLX', 'WY', 'WYN', 'WYNN']"
+728,"['Pfizer ', 'IP', 'LLY']"
+729,[]
+730,['Oracle ']
+731,['AMD']
+732,['International Paper']
+733,[]
+734,"['GM', 'MGM']"
+735,['AMD']
+736,['Waste Management ']
+737,['Eversource Energy']
+738,"['L Brands ', 'LB']"
+739,[]
+740,[]
+741,[]
+742,[]
+743,[]
+744,['SJM']
+745,[]
+746,[]
+747,[]
+748,[]
+749,"['PCG', 'PG']"
+750,[]
+751,"['Humana ', 'Morgan Stanley', 'Occidental Petroleum']"
+752,"['Micron Technology', 'MU']"
+753,['CI']
+754,['Sysco ']
+755,[]
+756,"['General Motors', 'GM']"
+757,['SunTrust Banks']
+758,[]
+759,[]
+760,['Marathon Petroleum']
+761,"['AutoZone ', 'AZO']"
+762,[]
+763,[]
+764,['American Express ']
+765,['Alexion Pharmaceuticals']
+766,[]
+767,"['Aetna ', 'CVS']"
+768,['Microchip Technology']
+769,[]
+770,[]
+771,[]
+772,['GD']
+773,['Time Warner ']
+774,[]
+775,['Fiserv ']
+776,[]
+777,[]
+778,[]
+779,[]
+780,['GM']
+781,"['HCP ', 'RE', 'IT', 'HCP']"
+782,['Pfizer ']
+783,['Aetna ']
+784,[]
+785,['Regeneron']
+786,"['RE', 'IT']"
+787,['Fluor ']
+788,"['Humana ', 'HUM']"
+789,"['Willis Towers Watson', 'WLTW']"
+790,[]
+791,"['Intel ', 'Key', 'Salesforce']"
+792,['Newell Brands']
+793,"['Caterpillar ', 'Illumina ', 'Intuit ']"
+794,"['Equifax ', 'EFX']"
+795,['Goldman Sachs Group']
+796,['WRK']
+797,"['Mastercard ', 'Visa ']"
+798,['Baker Hughes']
+799,"['Target ', 'AMD']"
+800,"['Pfizer ', 'FE', 'PFE']"
+801,[]
+802,"['EW', 'RE', 'IR']"
+803,[]
+804,"['Texas Instruments', 'TXN']"
+805,['Valero Energy']
+806,[]
+807,"['JPM', 'PM']"
+808,['Apple ']
+809,"['EL', 'ES', 'GE']"
+810,[]
+811,[]
+812,['IP']
+813,"['Micron Technology', 'Texas Instruments']"
+814,"['Newell Brands', 'NWL']"
+815,['Carnival ']
+816,"['Aetna ', 'CVS Health', 'CVS']"
+817,"['CA', 'SCANA ']"
+818,[]
+819,[]
+820,"['Alphabet Inc Class A', 'Apple ', 'Bank of America ', 'Cisco Systems']"
+821,['Ameren ']
+822,[]
+823,[]
+824,[]
+825,['Home Depot']
+826,['CF']
+827,['EW']
+828,"['CSX ', 'CSX']"
+829,"['DG', 'TDG']"
+830,"['Public Storage', 'PSA']"
+831,[]
+832,"['GOOGL', 'GOOG', 'CF']"
+833,['Symantec ']
+834,['Kroger ']
+835,[]
+836,[]
+837,['Chevron ']
+838,['IP']
+839,[]
+840,['Anadarko Petroleum ']
+841,['Apple ']
+842,['Tyson Foods']
+843,[]
+844,[]
+845,['Pepsi']
+846,['MO']
+847,"['AXP', 'BBY', 'DWDP']"
+848,['ConocoPhillips']
+849,['Capital One Financial']
+850,['Electronic Arts']
+851,['Kinder Morgan']
+852,['Ford Motor']
+853,[]
+854,[]
+855,"['Cimarex Energy', 'XEC']"
+856,[]
+857,[]
+858,[]
+859,['Wells Fargo']
+860,['UPS']
+861,['Home Depot']
+862,['Anadarko Petroleum ']
+863,['Express Scripts']
+864,['Texas Instruments']
+865,[]
+866,"['HP ', 'HP', 'HPQ']"
+867,['Invesco ']
+868,['Edwards Lifesciences']
+869,[]
+870,"['CA', 'ADP']"
+871,[]
+872,"['Newell Brands', 'CI', 'CCI', 'IFF', 'NWL']"
+873,['VAR']
+874,[]
+875,['AJG']
+876,[]
+877,"['Simon Property Group ', 'State Street ', 'Texas Instruments', 'IBM']"
+878,['NextEra Energy']
+879,[]
+880,[]
+881,[]
+882,['Interpublic Group']
+883,['Southwest Airlines']
+884,"['Progressive ', 'PG', 'PGR', 'TRV']"
+885,['Nucor ']
+886,[]
+887,['Dish Network']
+888,['NextEra Energy']
+889,[]
+890,[]
+891,[]
+892,"['PG', 'SPG']"
+893,[]
+894,"['Equifax ', 'GT']"
+895,"['Sempra Energy', 'CF', 'COO']"
+896,['Expedia ']
+897,['MMC']
+898,"['Broa', 'Intel ', 'JPM', 'PM']"
+899,['Southwest Airlines']
+900,"['Dollar General', 'Dollar Tree']"
+901,[]
+902,"['Marathon Petroleum', 'MPC']"
+903,[]
+904,"['BlackRock', 'CI', 'EW', 'IT']"
+905,['DIS']
+906,[]
+907,[]
+908,"['Expedia ', 'DE', 'EW', 'EL', 'LH']"
+909,[]
+910,['FOX']
+911,['SO']
+912,"['BA', 'BK']"
+913,"['AutoZone ', 'AZO']"
+914,[]
+915,[]
+916,[]
+917,['HLT']
+918,[]
+919,"['Anthem ', 'ANTM']"
+920,[]
+921,[]
+922,[]
+923,['TTWO']
+924,[]
+925,"['Oracle ', 'CL', 'ORCL', 'RCL']"
+926,[]
+927,[]
+928,[]
+929,"['JPM', 'PM']"
+930,[]
+931,['Nordstrom']
+932,['DFS']
+933,[]
+934,[]
+935,"['United Parcel Service', 'UPS']"
+936,"['Alexandria Real Estate Equities ', 'ARE', 'RE']"
+937,['MO']
+938,"['Torchmark ', 'TMK']"
+939,[]
+940,"['DTE Energy ', 'DTE']"
+941,"['NWSA', 'NWS']"
+942,[]
+943,[]
+944,[]
+945,['TripAdvisor']
+946,[]
+947,['BlackRock']
+948,"['Apple ', 'AAP', 'AAPL']"
+949,['Microsoft ']
+950,['Loews ']
+951,['AMD']
+952,"['Public Storage', 'PSA']"
+953,[]
+954,['BK']
+955,[]
+956,[]
+957,"['The Bank of New York Mellon ', 'BK']"
+958,['IP']
+959,"['MAR', 'MA']"
+960,[]
+961,"['Halliburton ', 'Schlumberger ', 'HAL', 'LB', 'SLB']"
+962,[]
+963,"['Advanced Micro Devices ', 'Hewlett Packard Enterprise', 'Intel ']"
+964,['Entergy ']
+965,[]
+966,[]
+967,[]
+968,[]
+969,[]
+970,[]
+971,['Berkshire Hathaway']
+972,[]
+973,[]
+974,['Arconic ']
+975,"['Ameriprise Financial', 'Ecolab ', 'Home Depot']"
+976,['Home Depot']
+977,['Bank of America ']
+978,['ConocoPhillips']
+979,"['Citigroup ', 'Wells Fargo', 'JPM', 'PM']"
+980,[]
+981,['Equifax ']
+982,['Kinder Morgan']
+983,['CA']
+984,"['Arconic ', 'ARNC']"
+985,[]
+986,"['Assurant ', 'Loews ']"
+987,"['ARE', 'ALL', 'ADM', 'CI', 'ED', 'EA', 'EL', 'RE', 'ES', 'FE', 'IT', 'ICE', 'LOW', 'MET', 'NI']"
+988,"['Autodesk ', 'Intuit ', 'Ross Stores']"
+989,[]
+990,['CI']
+991,['Genuine Parts']
+992,[]
+993,[]
+994,[]
+995,"['Quest Diagnostics', 'DG', 'DGX']"
+996,[]
+997,[]
+998,"['Humana ', 'HUM']"
+999,['Kellogg ']
+1000,"['Dentsply Sirona', 'XRAY']"
+1001,[]
+1002,[]
+1003,"['CA', 'Regions Financial ', 'DE', 'EW', 'RF']"
+1004,[]
+1005,"['Apple ', 'Qorvo']"
+1006,['Netflix ']
+1007,['AutoZone ']
+1008,[]
+1009,"['Devon Energy ', 'DVN']"
+1010,[]
+1011,"['BlackRock', 'MAR', 'MA']"
+1012,[]
+1013,"['Bank of America ', 'Citigroup ', 'Wells Fargo', 'PNC']"
+1014,[]
+1015,"['CVS Health', 'Walgreens Boots Alliance', 'CVS']"
+1016,"['MetLife ', 'MO', 'ES']"
+1017,[]
+1018,[]
+1019,"['Bank of America ', 'BlackRock']"
+1020,[]
+1021,['Vornado Realty Trust']
+1022,"['CBS ', 'CBS', 'CB']"
+1023,['IBM']
+1024,['Netflix ']
+1025,[]
+1026,['KMX']
+1027,[]
+1028,[]
+1029,"['AutoZone ', 'AZO']"
+1030,['Morgan Stanley']
+1031,"['RE', 'IT']"
+1032,"['BlackRock', 'MAR', 'MA']"
+1033,['AAL']
+1034,['ADM']
+1035,[]
+1036,[]
+1037,['Comcast ']
+1038,['PM']
+1039,['Unum Group']
+1040,[]
+1041,"['Alaska Air Group ', 'ALK']"
+1042,['Albemarle ']
+1043,[]
+1044,[]
+1045,"['AGN', 'EW', 'RE', 'IR', 'IP', 'STI']"
+1046,[]
+1047,"['Cummins ', 'MO', 'CMI', 'MA']"
+1048,[]
+1049,"['Hologic', 'BA', 'ED', 'DE', 'EA', 'RE', 'IP', 'MA', 'PH', 'RTN', 'SO']"
+1050,"['CL', 'CLX']"
+1051,['AutoZone ']
+1052,['FOX']
+1053,[]
+1054,['International Paper']
+1055,[]
+1056,"['Qorvo', 'FE', 'QRVO']"
+1057,[]
+1058,['Republic Services ']
+1059,"['Apple ', 'Berkshire Hathaway', 'Oracle ']"
+1060,[]
+1061,"['Garmin ', 'GRMN']"
+1062,"['Key', 'Qorvo']"
+1063,"['BlackRock', 'MAR', 'MA']"
+1064,['Electronic Arts']
+1065,[]
+1066,['Whirlpool ']
+1067,[]
+1068,"['Sempra Energy', 'RE', 'SRE']"
+1069,[]
+1070,"['Avery Dennison ', 'AVY']"
+1071,"['Morgan Stanley', 'JPM', 'PM']"
+1072,[]
+1073,[]
+1074,[]
+1075,['Apple ']
+1076,[]
+1077,[]
+1078,"['Darden Restaurants', 'DRI']"
+1079,[]
+1080,"['AbbVie ', 'Gilead Sciences']"
+1081,"['Textron ', 'TXT']"
+1082,"['AIG', 'ED', 'EW', 'RE']"
+1083,"['CA', 'Schlumberger ', 'IR']"
+1084,[]
+1085,[]
+1086,[]
+1087,[]
+1088,[]
+1089,[]
+1090,[]
+1091,"['CA', 'ARE', 'BA', 'DE', 'EW', 'EL', 'RE', 'ES', 'IT']"
+1092,['BK']
+1093,['Ford Motor']
+1094,[]
+1095,"['Broa', 'Citigroup ', 'Wells Fargo', 'JPM', 'PM']"
+1096,['Adobe Systems ']
+1097,['GWW']
+1098,['Nordstrom']
+1099,"['FB', 'Netflix ', 'FL', 'NFLX']"
+1100,"['RE', 'IT']"
+1101,[]
+1102,[]
+1103,"['Align Technology', 'ALGN']"
+1104,"['Intel ', 'Lennar ']"
+1105,[]
+1106,"['DaVita ', 'MO']"
+1107,['IBM']
+1108,"['PCG', 'PG']"
+1109,"['MO', 'CF', 'MOS']"
+1110,['Nike']
+1111,['Morgan Stanley']
+1112,"['Advanced Micro Devices ', 'AMD']"
+1113,"['Caterpillar ', 'Devon Energy ']"
+1114,[]
+1115,"['GM', 'JPM', 'MGM', 'PM']"
+1116,['CME']
+1117,"['Motorola Solutions ', 'MS', 'MSI']"
+1118,"['International Business Machines', 'IBM']"
+1119,['Intel ']
+1120,"['American Electric Power', 'Duke Energy', 'AEP', 'DUK']"
+1121,"['Bank of America ', 'EW', 'GT']"
+1122,"['CBS ', 'CBS', 'CB']"
+1123,[]
+1124,['NextEra Energy']
+1125,[]
+1126,"['Thermo Fisher Scientific', 'MO', 'TMO']"
+1127,['Cardinal Health ']
+1128,[]
+1129,['Microsoft ']
+1130,[]
+1131,"['Chevron ', 'National Oilwell Varco ', 'CVX', 'NOV']"
+1132,['Illinois Tool Works']
+1133,[]
+1134,"['MS', 'MSI']"
+1135,[]
+1136,['Equifax ']
+1137,['Activision Blizzard']
+1138,[]
+1139,"['Southwest Airlines', 'GT']"
+1140,['Home Depot']
+1141,"['Nvidia Corporation', 'NVDA']"
+1142,"['NKE', 'SO', 'TRV']"
+1143,[]
+1144,"['Western Union ', 'WU']"
+1145,[]
+1146,"['CA', 'DISCA', 'DIS']"
+1147,['Kinder Morgan']
+1148,"['Comerica ', 'CMA', 'MTB', 'MA']"
+1149,"['EL', 'IR', 'IRM', 'LLY', 'MA']"
+1150,['Nike']
+1151,['TripAdvisor']
+1152,[]
+1153,['Apple ']
+1154,[]
+1155,['Discover Financial Services']
+1156,[]
+1157,"['Weyerhaeuser ', 'WY']"
+1158,['Ameriprise Financial']
+1159,[]
+1160,[]
+1161,['Mohawk Industries']
+1162,['Morgan Stanley']
+1163,['CenturyLink ']
+1164,[]
+1165,"['Alaska Air Group ', 'ALK']"
+1166,[]
+1167,[]
+1168,['Paychex ']
+1169,"['Equifax ', 'General Electric', 'GE']"
+1170,['AIG']
+1171,['DG']
+1172,"['CME Group ', 'CME']"
+1173,[]
+1174,['HD']
+1175,"['Norfolk Southern ', 'Southern ']"
+1176,['Advance Auto Parts']
+1177,"['Express Scripts', 'Kroger ', 'CVS', 'ES', 'ESRX']"
+1178,"['Rockwell Collins', 'COL']"
+1179,[]
+1180,[]
+1181,[]
+1182,['DE']
+1183,"['Tyson Foods', 'TSN']"
+1184,"['Netflix ', 'FL', 'MAR', 'MA', 'NFLX', 'WY', 'WYN', 'WYNN']"
+1185,[]
+1186,[]
+1187,[]
+1188,"['SBA Communications', 'BAC', 'BA', 'SBAC']"
+1189,['Pfizer ']
+1190,['IP']
+1191,['Edwards Lifesciences']
+1192,[]
+1193,"['United Parcel Service', 'UPS']"
+1194,"['AME', 'ES']"
+1195,[' Plc']
+1196,[]
+1197,"['Charter Communications', 'Illumina ', 'CHTR', 'ILMN', 'KLAC']"
+1198,[]
+1199,[]
+1200,['ADM']
+1201,['Anadarko Petroleum ']
+1202,"['Advanced Micro Devices ', 'AMD']"
+1203,"['GM', 'MGM']"
+1204,[]
+1205,"['Aetna ', 'CVS Health', 'CVS']"
+1206,[]
+1207,"['CA', 'DISCA', 'NI', 'DIS']"
+1208,['Pfizer ']
+1209,"['Fifth Third Bancorp', 'Regions Financial ', 'SunTrust Banks']"
+1210,['ANSYS']
+1211,"['Broa', 'Time Warner ', 'CME']"
+1212,"['RE', 'IT']"
+1213,[]
+1214,[]
+1215,[]
+1216,['SJM']
+1217,[]
+1218,"['SBA Communications', 'BA']"
+1219,['Verisk Analytics']
+1220,['Dollar Tree']
+1221,"['GE', 'SO']"
+1222,"['Key', 'Netflix ', 'IP']"
+1223,[]
+1224,[]
+1225,[]
+1226,[]
+1227,['Stryker ']
+1228,"['Noble Energy ', 'NBL']"
+1229,['Amgen ']
+1230,['CenturyLink ']
+1231,[]
+1232,['ADBE']
+1233,"['Biogen ', 'BIIB']"
+1234,"['Verisk Analytics', 'VRSK']"
+1235,[]
+1236,['Lennar ']
+1237,['MS']
+1238,[]
+1239,[]
+1240,[]
+1241,"['Cimarex Energy', 'Kraft Heinz ', 'DRI', 'RE']"
+1242,"['Salesforce', 'CRM']"
+1243,"['Netflix ', 'FL', 'MAR', 'MA', 'NFLX', 'WY', 'WYN', 'WYNN']"
+1244,[]
+1245,[]
+1246,['Intuit ']
+1247,['Schlumberger ']
+1248,[]
+1249,['Kroger ']
+1250,[]
+1251,['Pentair ']
+1252,"['Carnival ', 'CCL', 'CL']"
+1253,[]
+1254,['Kinder Morgan']
+1255,"['Duke Realty ', 'DRE', 'RE']"
+1256,[]
+1257,"['Apple ', 'CI']"
+1258,[]
+1259,"['Anadarko Petroleum ', 'Devon Energy ']"
+1260,"['USB', 'UA', 'UAL']"
+1261,[]
+1262,"['Andeavor', 'ANDV', 'APA', 'MAR', 'MA', 'XL']"
+1263,['Applied Materials ']
+1264,[]
+1265,[]
+1266,[]
+1267,[]
+1268,['Intuit ']
+1269,"['LKQ Corporation', 'LKQ']"
+1270,"['MGM Resorts International', 'GM', 'MGM']"
+1271,['Apple ']
+1272,[]
+1273,[]
+1274,[]
+1275,[]
+1276,['CF']
+1277,[]
+1278,"['Microchip Technology', 'CL', 'EA', 'RE', 'ES', 'IT', 'IP']"
+1279,['Bank of America ']
+1280,[]
+1281,"['Fastenal ', 'FAST']"
+1282,['Danaher ']
+1283,"['PVH ', 'PVH']"
+1284,['CTAS']
+1285,['The Walt Disney Company']
+1286,"['Capital One Financial', 'Synchrony Financial']"
+1287,['Kinder Morgan']
+1288,[]
+1289,"['Express Scripts', 'ES', 'ESRX']"
+1290,[]
+1291,"['DE', 'EL', 'ES', 'IR', 'MS', 'PM']"
+1292,"['MAR', 'MA']"
+1293,[]
+1294,['General Mills']
+1295,['Apple ']
+1296,['Arconic ']
+1297,['FDX']
+1298,[]
+1299,"['Electronic Arts', 'EA']"
+1300,['NextEra Energy']
+1301,['Morgan Stanley']
+1302,"['CA', 'Cardinal Health ', 'CAH']"
+1303,['EA']
+1304,"['MAR', 'MA', 'RRC']"
+1305,"['Aetna ', 'CVS Health', 'CVS']"
+1306,['Equifax ']
+1307,"['Activision Blizzard', 'ATVI']"
+1308,[]
+1309,['Nordstrom']
+1310,[]
+1311,['BlackRock']
+1312,[]
+1313,['Ameriprise Financial']
+1314,[]
+1315,['Devon Energy ']
+1316,"['TripAdvisor', 'IP', 'TRIP']"
+1317,[]
+1318,['Home Depot']
+1319,"['Cincinnati Financial', 'CI', 'CINF']"
+1320,[]
+1321,[]
+1322,['Incyte']
+1323,[]
+1324,['Royal Caribbean Cruises Ltd']
+1325,['CI']
+1326,[]
+1327,['MetLife ']
+1328,[]
+1329,"['Apple ', 'Netflix ']"
+1330,[]
+1331,[]
+1332,[]
+1333,['MTD']
+1334,"['Boston Scientific', 'XL']"
+1335,[]
+1336,"['eBay ', 'PayPal']"
+1337,[]
+1338,[]
+1339,['eBay ']
+1340,['Comerica ']
+1341,['Citigroup ']
+1342,"['Apple ', 'Unum Group']"
+1343,"['Caterpillar ', 'General Motors', 'Pfizer ']"
+1344,[]
+1345,[]
+1346,"['Amgen ', 'AMG', 'AMGN']"
+1347,['IR']
+1348,[]
+1349,['Mattel ']
+1350,[]
+1351,[]
+1352,"['Aetna ', 'CVS Health', 'CVS', 'EW']"
+1353,"['Abbott Laboratories', 'ABT']"
+1354,['UPS']
+1355,['Occidental Petroleum']
+1356,['Equifax ']
+1357,"['Jacobs Engineering Group', 'JEC']"
+1358,[]
+1359,"['IP', 'LLY']"
+1360,['Perrigo']
+1361,"['Duke Realty ', 'DRE', 'RE']"
+1362,"['ORLY', 'RL']"
+1363,[]
+1364,['HOG']
+1365,[]
+1366,"['Monster Beverage', 'Morgan Stanley']"
+1367,[]
+1368,"['ConocoPhillips', 'Marathon Oil ', 'Occidental Petroleum']"
+1369,[]
+1370,[]
+1371,"['Symantec ', 'UA']"
+1372,['Morgan Stanley']
+1373,"['MAR', 'MA']"
+1374,"['Anthem ', 'Comcast ', 'Northrop Grumman ', 'Texas Instruments']"
+1375,"['Schlumberger ', 'LB', 'SLB']"
+1376,[]
+1377,['Comcast ']
+1378,['AIG']
+1379,"['PVH ', 'PVH']"
+1380,"['CA', 'DISCA', 'DIS']"
+1381,"['MAR', 'MA']"
+1382,['IT']
+1383,"['CVS Health', 'CVS']"
+1384,['Northrop Grumman ']
+1385,[]
+1386,['UPS']
+1387,"['Edwards Lifesciences', 'Pfizer ', 'EW', 'GT']"
+1388,[]
+1389,['MA']
+1390,['Nordstrom']
+1391,['VRSK']
+1392,"['Walgreens Boots Alliance', 'BA', 'WBA']"
+1393,[]
+1394,"['Halliburton ', 'HAL']"
+1395,['Norwegian Cruise Line']
+1396,"['RE', 'IT']"
+1397,['RE']
+1398,['MKC']
+1399,"['GOOGL', 'GOOG', 'AMZN']"
+1400,['Apple ']
+1401,[]
+1402,[]
+1403,['Allstate ']
+1404,['Campbell Soup']
+1405,"['Western Union ', 'WU']"
+1406,"['CA', 'Pinnacle West Capital', 'CL', 'ED', 'EL', 'ES', 'FE', 'IT', 'DIS']"
+1407,['AMD']
+1408,['United Continental Holdings']
+1409,[]
+1410,"['Public Storage', 'PSA']"
+1411,"['Amgen ', 'AMG', 'AMGN']"
+1412,"['FirstEnergy ', 'FE']"
+1413,"['Visa ', 'GOOGL', 'GOOG']"
+1414,['American Express ']
+1415,[]
+1416,[]
+1417,"['Chubb Limited', 'CB']"
+1418,"['Carnival ', 'CCL', 'CL']"
+1419,"['Quanta Services ', 'PWR']"
+1420,[]
+1421,[]
+1422,"['Duke Energy', 'Schlumberger ', 'Stryker ']"
+1423,[]
+1424,['Apple ']
+1425,['Dominion Energy']
+1426,[]
+1427,"['Capital One Financial', 'COF']"
+1428,['Loews ']
+1429,['Perrigo']
+1430,['IP']
+1431,"['Advanced Micro Devices ', 'AMD', 'NVDA']"
+1432,[]
+1433,"['Caterpillar ', 'Halliburton ', 'Hasbro ']"
+1434,['IT']
+1435,"['FB', 'GT']"
+1436,[]
+1437,['NBL']
+1438,['BA']
+1439,[]
+1440,[]
+1441,"['International Business Machines', 'IBM']"
+1442,['VNO']
+1443,['APA']
+1444,"['RE', 'IT']"
+1445,[]
+1446,"['ARE', 'ALL', 'DAL', 'RE', 'IT', 'ITW']"
+1447,[]
+1448,"['Home Depot', 'HD']"
+1449,[]
+1450,[]
+1451,[]
+1452,[]
+1453,[]
+1454,[]
+1455,[]
+1456,"['Cerner', 'CERN']"
+1457,[]
+1458,[]
+1459,['BlackRock']
+1460,['Intuit ']
+1461,[]
+1462,['Apple ']
+1463,"['Hormel Foods ', 'Key', 'HRL', 'RL']"
+1464,[]
+1465,[]
+1466,['AMG']
+1467,[]
+1468,"['MAR', 'MA']"
+1469,"['Microsoft ', 'IP', 'MSFT', 'MS']"
+1470,['Campbell Soup']
+1471,[]
+1472,"['American Express ', 'IBM']"
+1473,[]
+1474,"['eBay ', 'AMZN', 'BA', 'EBAY']"
+1475,[]
+1476,[]
+1477,"['Apple ', 'Kinder Morgan', 'Visa ']"
+1478,['Duke Energy']
+1479,['PSX']
+1480,['Duke Energy']
+1481,[]
+1482,['BEN']
+1483,"['Boston Properties', 'Target ', 'BXP']"
+1484,[]
+1485,[]
+1486,"['GOOGL', 'GOOG']"
+1487,"['CVS Health', 'CVS']"
+1488,"['Devon Energy ', 'DVN']"
+1489,[]
+1490,['Booking Holdings ']
+1491,['Intel ']
+1492,"['Microsoft ', 'Morgan Stanley', 'CI']"
+1493,[]
+1494,"['Campbell Soup', 'CPB']"
+1495,[]
+1496,[]
+1497,['Alphabet Inc Class A']
+1498,[]
+1499,"['Visa ', 'DE', 'EA']"
+1500,['QCOM']
+1501,[]
+1502,"['KR', 'PG']"
+1503,"['Verisk Analytics', 'VRSK']"
+1504,['Duke Energy']
+1505,['Interpublic Group']
+1506,[]
+1507,"['Chevron ', 'Delta Air Lines ', 'FE']"
+1508,['Morgan Stanley']
+1509,"['BlackRock', 'MAR', 'MA']"
+1510,[]
+1511,[]
+1512,['Hasbro ']
+1513,[]
+1514,['Citigroup ']
+1515,[]
+1516,[]
+1517,[]
+1518,"['EIX', 'PCG', 'PG']"
+1519,[]
+1520,[]
+1521,"['CA', 'Fluor ', 'NRG Energy', 'CI', 'NRG']"
+1522,"['Rockwell Automation ', 'ROK']"
+1523,['State Street ']
+1524,"['Fidelity National Information Services', 'FIS']"
+1525,['AMZN']
+1526,"['Bank of America ', 'MO', 'EW', 'ES']"
+1527,[]
+1528,[]
+1529,['Broa']
+1530,"['Apple ', 'ADP']"
+1531,"['Marathon Petroleum', 'Praxair ', 'ETR', 'RE', 'GE', 'HAS', 'HON', 'IR', 'MAR', 'MA', 'PPL']"
+1532,['American Express ']
+1533,['CL']
+1534,['AMG']
+1535,"['Microsoft ', 'GD']"
+1536,[]
+1537,"['Apple ', 'Broa']"
+1538,['Citigroup ']
+1539,['Salesforce']
+1540,[]
+1541,['Comcast ']
+1542,"['Apple ', 'Morgan Stanley']"
+1543,['Costco Wholesale ']
+1544,"['Hasbro ', 'Mattel ']"
+1545,"['American Airlines Group', 'Delta Air Lines ', 'Southwest Airlines']"
+1546,['WEC']
+1547,['Comcast ']
+1548,['Comcast ']
+1549,[]
+1550,[]
+1551,"['CA', 'APA', 'BA', 'MU']"
+1552,[]
+1553,['Aetna ']
+1554,[]
+1555,['Invesco ']
+1556,"['Home Depot', 'HD']"
+1557,"['GM', 'MGM']"
+1558,['GD']
+1559,[]
+1560,"['Edwards Lifesciences', ' Plc']"
+1561,[]
+1562,"['Pentair ', 'PNR']"
+1563,[]
+1564,[]
+1565,['XL']
+1566,['Intel ']
+1567,['Symantec ']
+1568,['Comcast ']
+1569,['Morgan Stanley']
+1570,"['Western Digital', 'WDC']"
+1571,['BBY']
+1572,['Charter Communications']
+1573,[]
+1574,['Dollar General']
+1575,[]
+1576,[]
+1577,[]
+1578,"['URI', 'Starbucks ']"
+1579,[]
+1580,[]
+1581,[]
+1582,['MO']
+1583,"['RE', 'IT']"
+1584,[]
+1585,['Dish Network']
+1586,"['Mastercard ', 'PayPal', 'Vertex Pharmaceuticals ']"
+1587,[]
+1588,"['RE', 'IT']"
+1589,['SNA']
+1590,[]
+1591,"['GM', 'MGM']"
+1592,[]
+1593,['Electronic Arts']
+1594,[]
+1595,"['Citigroup ', 'Wells Fargo', 'JPM', 'PM']"
+1596,"['Schlumberger ', 'CI', 'ED', 'RE', 'UA']"
+1597,"['CI', 'CCI']"
+1598,[]
+1599,"['Hewlett Packard Enterprise', 'HP', 'HPE']"
+1600,[]
+1601,[]
+1602,"['Fiserv ', 'FIS', 'FISV']"
+1603,[]
+1604,['Lennar ']
+1605,"['CA', 'BA', 'ED', 'DE', 'EL', 'RE', 'ES', 'FAST', 'GE', 'IR', 'MAR', 'MA', 'MYL', 'PM', 'ROP']"
+1606,"['Akamai Technologies ', 'AKAM']"
+1607,[]
+1608,"['Fiserv ', 'FIS', 'FISV']"
+1609,[]
+1610,[]
+1611,['Hasbro ']
+1612,[]
+1613,"['Norfolk Southern ', 'Southern ']"
+1614,['Apple ']
+1615,['Intuit ']
+1616,"['Discover Financial Services', 'Mastercard ', 'Visa ']"
+1617,[]
+1618,"['Intuitive Surgical ', 'ISRG']"
+1619,['Nordstrom']
+1620,"['American Express ', 'Mastercard ', 'Visa ']"
+1621,[]
+1622,['Red Hat ']
+1623,[]
+1624,[]
+1625,"['DE', 'XL']"
+1626,['Netflix ']
+1627,['Comcast ']
+1628,"['General Mills', 'Nordstrom']"
+1629,"['Newfield Exploration ', 'NFX']"
+1630,[]
+1631,[]
+1632,[]
+1633,[]
+1634,[]
+1635,"['MAR', 'MA']"
+1636,['Microsoft ']
+1637,[]
+1638,"['PVH ', 'PVH']"
+1639,['STX']
+1640,[]
+1641,[]
+1642,['Hilton Worldwide Holdings ']
+1643,['Express Scripts']
+1644,['Entergy ']
+1645,"['RE', 'IT']"
+1646,[]
+1647,"['CA', 'IDEXX Laboratories', 'CAG', 'DE', 'IDXX']"
+1648,['Kellogg ']
+1649,['IBM']
+1650,"['General Electric', 'Target ', 'GE']"
+1651,['Kinder Morgan']
+1652,['Ventas ']
+1653,"['RE', 'IT']"
+1654,['EL']
+1655,['Citrix Systems']
+1656,['GE']
+1657,['BA']
+1658,['MS']
+1659,[]
+1660,"['COST', 'EW', 'EA', 'RE', 'MYL']"
+1661,[]
+1662,['CA']
+1663,['Morgan Stanley']
+1664,[]
+1665,"['Oracle ', 'ARE', 'ALL', 'CL', 'DE', 'RE', 'ES', 'IT', 'IR', 'NI']"
+1666,[]
+1667,"['DowDuPont', 'RE', 'INFO', 'ICE', 'MAR', 'MA', 'REG']"
+1668,['Gartner ']
+1669,['Lam Research']
+1670,[]
+1671,[]
+1672,['Exxon Mobil ']
+1673,['MKC']
+1674,[]
+1675,[]
+1676,[]
+1677,"['Equinix', 'MO', 'EW', 'EQIX', 'GD']"
+1678,"['Norfolk Southern ', 'Southern ']"
+1679,[]
+1680,[]
+1681,"['Halliburton ', 'Schlumberger ']"
+1682,[]
+1683,"['CBS ', 'Viacom ', 'CBS', 'CB']"
+1684,[]
+1685,['Schlumberger ']
+1686,[]
+1687,"['Fifth Third Bancorp', 'FITB', 'IT']"
+1688,"['Kraft Heinz ', 'KHC']"
+1689,[]
+1690,[]
+1691,['USB']
+1692,"['Align Technology', 'ALGN']"
+1693,"['Ameriprise Financial', 'AMP']"
+1694,[]
+1695,[]
+1696,['General Electric']
+1697,['PM']
+1698,['JBHT']
+1699,[]
+1700,"['RE', 'IT']"
+1701,[]
+1702,['Hasbro ']
+1703,"['CIGNA ', 'CI']"
+1704,"['RE', 'IT']"
+1705,['ED']
+1706,[]
+1707,[]
+1708,[]
+1709,[]
+1710,['DowDuPont']
+1711,"['CA', 'Macerich', 'MO', 'MAC', 'MA', 'MON', 'NI']"
+1712,"['IPG Photonics ', 'IP', 'IPG', 'PG']"
+1713,"['MAR', 'MA']"
+1714,['VAR']
+1715,[]
+1716,"['Ecolab ', 'CL', 'ECL']"
+1717,"['Lam Research', 'ES', 'LRCX']"
+1718,"['Albemarle ', 'ALB', 'LB']"
+1719,[]
+1720,['Exxon Mobil ']
+1721,"['Microsoft ', 'Oracle ']"
+1722,"['Baxter International ', 'BAX', 'BA']"
+1723,[]
+1724,['CI']
+1725,"['Loews ', 'AME', 'EW', 'RE', 'ES', 'MAR', 'MA']"
+1726,[]
+1727,[]
+1728,"['Expeditors International', 'EXPD']"
+1729,['Intel ']
+1730,"['Intel ', 'Netflix ', 'FL', 'MAR', 'MA', 'NFLX']"
+1731,['ResMed']
+1732,"['Devon Energy ', 'DVN']"
+1733,"['DHR', 'PM', 'TXT', 'BK', 'TRV']"
+1734,[]
+1735,"['Qorvo', 'QRVO']"
+1736,[]
+1737,[]
+1738,"['MetLife ', 'Symantec ']"
+1739,['Nike']
+1740,[]
+1741,['BA']
+1742,['Northern Trust ']
+1743,[]
+1744,[]
+1745,[]
+1746,"['AVGO', 'CPB', 'MA', 'MAT']"
+1747,['AMT']
+1748,[]
+1749,"['DowDuPont', 'DWDP']"
+1750,"['Weyerhaeuser ', 'WY']"
+1751,['Marathon Oil ']
+1752,"['Netflix ', 'IBM']"
+1753,['Comcast ']
+1754,"['CA', 'SCANA ']"
+1755,[]
+1756,[]
+1757,['Roper Technologies']
+1758,"['Dollar Tree', 'DLTR']"
+1759,['Invesco ']
+1760,"['SL Green Realty', 'EW']"
+1761,"['AES ', 'AES', 'ES']"
+1762,['LOW']
+1763,[]
+1764,[]
+1765,[]
+1766,[]
+1767,['American Airlines Group']
+1768,"['Qorvo', 'QRVO']"
+1769,[]
+1770,"['Nordstrom', 'JWN']"
+1771,"['Apple ', 'Time Warner ', 'Wells Fargo']"
+1772,"['Carnival ', 'Microchip Technology']"
+1773,[]
+1774,"['COST', 'GT', 'TGT']"
+1775,[]
+1776,['Morgan Stanley']
+1777,['Texas Instruments']
+1778,"['United Parcel Service', 'UPS']"
+1779,[]
+1780,['EIX']
+1781,['Home Depot']
+1782,[]
+1783,[]
+1784,['SCG']
+1785,"['Newell Brands', 'NWL']"
+1786,['ResMed']
+1787,['Target ']
+1788,['Amgen ']
+1789,['PNC']
+1790,"['IQVIA Holdings ', 'Total System Services', 'IQV', 'TSS']"
+1791,[]
+1792,"['Apple ', 'Microsoft ', 'Nike']"
+1793,"['Becton Dickinson', 'BDX']"
+1794,"['Waste Management ', 'EA']"
+1795,[]
+1796,['Arconic ']
+1797,['Celgene ']
+1798,[]
+1799,['Masco ']
+1800,"['International Business Machines', 'IBM']"
+1801,['GE']
+1802,[]
+1803,"['FirstEnergy ', 'FE']"
+1804,['GM']
+1805,[]
+1806,"['Skyworks Solutions', 'SWKS', 'SWK']"
+1807,[]
+1808,[]
+1809,"['AES ', 'AES', 'ES']"
+1810,['Campbell Soup']
+1811,['Ameriprise Financial']
+1812,"['Nielsen Holdings', ' Plc']"
+1813,"['Key', 'PNC']"
+1814,['Campbell Soup']
+1815,['L Brands ']
+1816,['General Mills']
+1817,[]
+1818,"['CA', 'Home Depot', 'PayPal', 'HCA', 'HD', 'PYPL']"
+1819,['Netflix ']
+1820,['Alexandria Real Estate Equities ']
+1821,"['General Motors', 'Morgan Stanley']"
+1822,[]
+1823,"['CA', 'PCAR']"
+1824,[]
+1825,[]
+1826,['Waste Management ']
+1827,"['CA', 'MMM', 'CAT', 'HOG', 'UTX', 'VZ']"
+1828,['COO']
+1829,[]
+1830,[]
+1831,"['EW', 'RE', 'IR', 'WAT']"
+1832,"['DowDuPont', 'DWDP']"
+1833,[]
+1834,['Southwest Airlines']
+1835,['Sempra Energy']
+1836,[]
+1837,[]
+1838,['IP']
+1839,[]
+1840,['UPS']
+1841,[]
+1842,"['BHGE', 'Baker Hughes', 'GE']"
+1843,['GWW']
+1844,['Booking Holdings ']
+1845,['Citizens Financial Group']
+1846,[]
+1847,"['Exelon ', 'Southern ']"
+1848,"['Hormel Foods ', 'HRL', 'RL']"
+1849,['SJM']
+1850,"['Baker Hughes', 'GE']"
+1851,['Wells Fargo']
+1852,"['EA', 'GS', 'NI']"
+1853,"['CA', 'Key', 'CI', 'IT']"
+1854,"['Becton Dickinson', 'BDX']"
+1855,"['Microsoft ', 'IBM', 'MSFT', 'MS']"
+1856,[]
+1857,"['Devon Energy ', 'DVN']"
+1858,['Allergan']
+1859,[]
+1860,"['Abbott Laboratories', 'ABT']"
+1861,[]
+1862,[]
+1863,[]
+1864,['Hanesbrands ']
+1865,['Campbell Soup']
+1866,[]
+1867,[]
+1868,[]
+1869,['Intuit ']
+1870,"['AES ', 'AES', 'ES']"
+1871,[]
+1872,"['Symantec ', 'CL', 'ED', 'EA', 'EL', 'RE', 'IT', 'HON', 'MAR', 'MA', 'MS', 'NI']"
+1873,['Gap ']
+1874,[]
+1875,[]
+1876,['AbbVie ']
+1877,"['Regeneron', 'RE', 'REG', 'REGN']"
+1878,"['Gilead Sciences', 'Pfizer ', 'FE', 'GILD', 'JNJ', 'MRK', 'PFE']"
+1879,"['Bank of America ', 'MAR', 'MA']"
+1880,"['Fortive ', 'FTV']"
+1881,[]
+1882,[]
+1883,['IR']
+1884,['Symantec ']
+1885,['Incyte']
+1886,[]
+1887,[]
+1888,['Ross Stores']
+1889,[]
+1890,"['AMD', 'IP']"
+1891,['TTWO']
+1892,"['Ball ', 'AME', 'BLL', 'EA']"
+1893,"['GM', 'MGM']"
+1894,['Ross Stores']
+1895,[]
+1896,['Wells Fargo']
+1897,['IP']
+1898,"['FirstEnergy ', 'ARE', 'MO', 'ED', 'DE', 'EL', 'RE', 'ES', 'FE', 'IR', 'MON']"
+1899,"['Electronic Arts', 'EA']"
+1900,"['HP ', 'HP']"
+1901,"['ESS', 'RE', 'ES', 'IR']"
+1902,['Northrop Grumman ']
+1903,[]
+1904,"['Broa', 'Salesforce']"
+1905,"['CA', 'Cardinal Health ', 'CAH']"
+1906,"['Cummins ', 'CMI']"
+1907,"['DXC Technology', 'DXC']"
+1908,[]
+1909,"['General Electric', 'GE']"
+1910,['Dish Network']
+1911,"['Interpublic Group', 'MS']"
+1912,['URI']
+1913,[]
+1914,[]
+1915,[]
+1916,['Vertex Pharmaceuticals ']
+1917,"['MS', 'MSI']"
+1918,[]
+1919,['Delta Air Lines ']
+1920,"['MO', 'EW']"
+1921,"['Intel ', 'Netflix ', 'FL', 'MAR', 'MA', 'NFLX']"
+1922,[]
+1923,['Realty Income Corporation']
+1924,"['Xylem ', 'HRS', 'XYL']"
+1925,['Mondelez International']
+1926,[]
+1927,"['Albemarle ', 'ALB', 'LB']"
+1928,[]
+1929,[]
+1930,"['MAR', 'MA', 'RRC']"
+1931,[]
+1932,"['Nike', 'EW']"
+1933,[]
+1934,['eBay ']
+1935,"['Rockwell Automation ', 'ROK']"
+1936,['Occidental Petroleum']
+1937,['Hasbro ']
+1938,['Albemarle ']
+1939,"['SPGI', 'Morgan Stanley', 'PG', 'SPG']"
+1940,"['BBY', 'BA', 'EBAY']"
+1941,"['Abbott Laboratories', 'ABT']"
+1942,['Nektar Therapeutics']
+1943,['Realty Income Corporation']
+1944,"['CenturyLink ', 'Microsoft ', 'GE']"
+1945,['Oracle ']
+1946,"['Microsoft ', 'Oracle ']"
+1947,"['Avery Dennison ', 'AVY']"
+1948,"['CSX ', 'CSX']"
+1949,"['Ulta Beauty', 'ULTA']"
+1950,[]
+1951,['Oracle ']
+1952,['TJX']
+1953,"['Nordstrom', 'JWN']"
+1954,[]
+1955,[]
+1956,[]
+1957,['PayPal']
+1958,[]
+1959,[]
+1960,"['FMC', 'FTI']"
+1961,['Exelon ']
+1962,['Northern Trust ']
+1963,"['Varian Medical Systems', 'VAR']"
+1964,[]
+1965,"['Northern Trust ', 'APA', 'EA']"
+1966,[]
+1967,"['FLIR Systems', 'FLIR', 'FL', 'GPS', 'IR', 'UA']"
+1968,"['FirstEnergy ', 'FE']"
+1969,"['Campbell Soup', 'Kraft Heinz ']"
+1970,['Broa']
+1971,['LLY']
+1972,['MS']
+1973,"['Vornado Realty Trust', 'CI', 'XEC', 'EA', 'RE', 'ICE', 'IP']"
+1974,['Humana ']
+1975,['HON']
+1976,"['PerkinElmer', 'PKI']"
+1977,"['MAR', 'MA']"
+1978,['General Motors']
+1979,[]
+1980,"['JPM', 'PM']"
+1981,"['Mastercard ', 'Visa ']"
+1982,[]
+1983,"['CA', 'Autodesk ']"
+1984,[]
+1985,[]
+1986,['Equifax ']
+1987,"['Southern ', 'SO']"
+1988,['Carnival ']
+1989,[]
+1990,[]
+1991,['Invesco ']
+1992,"['Advance Auto Parts', 'AAP']"
+1993,"['EA', 'GS', 'NI']"
+1994,[]
+1995,['Nike']
+1996,"['Intuit ', 'INTU']"
+1997,"['Intel ', 'Netflix ', 'FL', 'MAR', 'MA', 'NFLX']"
+1998,[]
+1999,"['Foot Locker ', 'Nike', 'Wells Fargo']"
+2000,['PayPal']
+2001,['Constellation Brands']
+2002,['NetApp']
+2003,[]
+2004,"['CA', 'Cardinal Health ', 'CAH']"
+2005,['Broa']
+2006,['Target ']
+2007,"['AMD', 'GM', 'PX']"
+2008,"['Baker Hughes', 'Schlumberger ']"
+2009,[]
+2010,['Equity Residential']
+2011,"['DE', 'IR']"
+2012,"['CME Group ', 'CME']"
+2013,[]
+2014,"['Caterpillar ', 'Schlumberger ', 'Wells Fargo']"
+2015,"['Digital Realty Trust ', 'DLR']"
+2016,[]
+2017,['Everest Re Group ']
+2018,[]
+2019,[]
+2020,"['Lennar ', 'TAP']"
+2021,['Berkshire Hathaway']
+2022,['USB']
+2023,"['Wells Fargo', 'JNJ']"
+2024,['KMX']
+2025,['Pioneer Natural Resources']
+2026,"['GM', 'MGM']"
+2027,['AIV']
+2028,"['CI', 'ES', 'ESRX', 'PX']"
+2029,[]
+2030,[]
+2031,"['Intel ', 'Lam Research', 'Micron Technology', 'AMD', 'QCOM']"
+2032,['Fifth Third Bancorp']
+2033,['Corning ']
+2034,[]
+2035,['CenterPoint Energy']
+2036,"['Advanced Micro Devices ', 'AMD', 'PH', 'SO']"
+2037,"['Costco Wholesale ', 'COST']"
+2038,[]
+2039,[]
+2040,[]
+2041,"['BlackRock', 'MAR', 'MA']"
+2042,['International Paper']
+2043,"['MAR', 'MA']"
+2044,['Celgene ']
+2045,"['MO', 'MOS']"
+2046,"['Norfolk Southern ', 'Southern ']"
+2047,"['Union Pacific', 'UNP']"
+2048,['Chevron ']
+2049,"['Invesco ', 'IVZ', 'VZ']"
+2050,"['Anthem ', 'Express Scripts']"
+2051,[]
+2052,"['RE', 'IT']"
+2053,"['EW', 'RE', 'IR']"
+2054,[]
+2055,"['HP ', 'HP', 'HPQ']"
+2056,['STI']
+2057,"['Mastercard ', 'Visa ']"
+2058,"['Progressive ', 'PG', 'PGR']"
+2059,"['International Paper', 'EA', 'RE', 'GS', 'NI', 'UA']"
+2060,"['NiSource ', 'NI']"
+2061,['EQT']
+2062,"['International Paper', ' Plc']"
+2063,"['MGM Resorts International', 'BA', 'GM', 'MGM']"
+2064,[]
+2065,"['PVH ', 'PVH']"
+2066,"['Brighthouse Financial ', 'BHF']"
+2067,[]
+2068,"['IR', 'IRM']"
+2069,"['CA', 'ARE', 'MO', 'CL', 'ED', 'DE', 'ECL', 'RE', 'IT', 'MA', 'MAT', 'MON', 'RL', 'UA']"
+2070,['ADI']
+2071,[]
+2072,['Northrop Grumman ']
+2073,['Roper Technologies']
+2074,"['RE', 'IT']"
+2075,"['Garmin ', 'GPS']"
+2076,[]
+2077,['AMD']
+2078,['Express Scripts']
+2079,['EMR']
+2080,"['Kansas City Southern', 'Southern ']"
+2081,[]
+2082,[]
+2083,[]
+2084,['Oracle ']
+2085,['Broa']
+2086,"['Applied Materials ', 'AMAT', 'MA', 'MAT']"
+2087,[]
+2088,"['Allstate ', 'Apple ', 'CVS Health', 'Mastercard ', 'Xerox ', 'CVS']"
+2089,"['Netflix ', 'DIS']"
+2090,['United Continental Holdings']
+2091,['Celgene ']
+2092,[]
+2093,[]
+2094,[]
+2095,"['Abbott Laboratories', 'ABT']"
+2096,['Comcast ']
+2097,[]
+2098,"['Alexion Pharmaceuticals', 'ALXN']"
+2099,['ConocoPhillips']
+2100,[]
+2101,[]
+2102,"['Berkshire Hathaway', 'PSX']"
+2103,['MDT']
+2104,[]
+2105,[]
+2106,[]
+2107,['RE']
+2108,"['Align Technology', 'ALGN', 'ES']"
+2109,[]
+2110,[]
+2111,['CB']
+2112,[]
+2113,['Comcast ']
+2114,"['BorgWarner', 'Morgan Stanley']"
+2115,[]
+2116,[]
+2117,['Quest Diagnostics']
+2118,['L Brands ']
+2119,"['CA', 'ALL', 'APH', 'IT', 'LLY', 'MAR', 'MA', 'PH', 'PPL', 'UA', 'UAL']"
+2120,['DPS']
+2121,[]
+2122,['Constellation Brands']
+2123,['Express Scripts']
+2124,[]
+2125,[]
+2126,[]
+2127,"['RE', 'UPS']"
+2128,[]
+2129,[]
+2130,"['General Motors', 'Morgan Stanley']"
+2131,"['Bank of America ', 'MAR', 'MA']"
+2132,"['Aetna ', 'AET']"
+2133,['Cardinal Health ']
+2134,"['Corning ', 'GLW']"
+2135,"['L Brands ', 'LB']"
+2136,[]
+2137,['EQT']
+2138,[]
+2139,"['BA', 'MU']"
+2140,['Delta Air Lines ']
+2141,[]
+2142,['Southern ']
+2143,['APA']
+2144,['Kroger ']
+2145,['Qorvo']
+2146,"['CA', 'Broa']"
+2147,['Netflix ']
+2148,"['Apple ', 'Applied Materials ', 'Micron Technology', 'Skyworks Solutions']"
+2149,"['CBS ', 'PayPal', 'CBS', 'CB', 'PYPL']"
+2150,"['TJX Companies ', 'TJX']"
+2151,[]
+2152,"['JPM', 'PM']"
+2153,['Pfizer ']
+2154,"['DE', 'EW', 'EA', 'EL', 'LH']"
+2155,[]
+2156,[]
+2157,['Bank of America ']
+2158,['GT']
+2159,[]
+2160,"['Intel ', 'INTC']"
+2161,"['Prologis', 'IR', 'PM', 'PLD']"
+2162,['Oracle ']
+2163,[]
+2164,"['eBay ', 'Intuit ']"
+2165,"['DTE Energy ', 'DTE']"
+2166,"['Ameren ', 'AEE']"
+2167,['GILD']
+2168,"['MO', 'ES']"
+2169,[]
+2170,[]
+2171,[]
+2172,[]
+2173,['Hasbro ']
+2174,[]
+2175,"['RE', 'IT']"
+2176,"['FB', 'GD']"
+2177,[]
+2178,['DowDuPont']
+2179,['Fortive ']
+2180,[]
+2181,['Rockwell Automation ']
+2182,"['Citrix Systems', 'CTXS']"
+2183,"['Campbell Soup', 'Kraft Heinz ']"
+2184,[]
+2185,[]
+2186,['HON']
+2187,['Intuit ']
+2188,[]
+2189,[]
+2190,['Intel ']
+2191,[]
+2192,"['DISH', 'DIS']"
+2193,[]
+2194,['CenturyLink ']
+2195,[]
+2196,"['Alexion Pharmaceuticals', 'ALXN']"
+2197,[]
+2198,[]
+2199,[]
+2200,[]
+2201,[]
+2202,"['Apple ', 'EL']"
+2203,[]
+2204,['Time Warner ']
+2205,[]
+2206,"['Raytheon ', 'GT']"
+2207,"['Kinder Morgan', 'Marathon Oil ']"
+2208,['Home Depot']
+2209,"['BHGE', 'Baker Hughes', 'GE']"
+2210,[]
+2211,['Morgan Stanley']
+2212,['LOW']
+2213,['Delta Air Lines ']
+2214,[]
+2215,"['Waste Management ', 'WM']"
+2216,"['Boston Scientific', 'BSX']"
+2217,[]
+2218,['Sempra Energy']
+2219,[]
+2220,['RL']
+2221,[]
+2222,['EL']
+2223,"['Lennar ', 'ES']"
+2224,['AAP']
+2225,[]
+2226,"['URI', 'AbbVie ']"
+2227,['Citigroup ']
+2228,"['Southwest Airlines', 'ALL', 'DAL']"
+2229,[]
+2230,[]
+2231,[]
+2232,"['Chevron ', 'Raytheon ']"
+2233,['United Technologies']
+2234,"['Waste Management ', 'WM']"
+2235,"['Alphabet Inc Class A', 'Apple ', 'Microsoft ', 'AAP', 'GOOGL', 'GOOG', 'AMZN', 'AAPL', 'MSFT', 'MS']"
+2236,"['General Dynamics', 'GD']"
+2237,[]
+2238,"['Cummins ', 'MA']"
+2239,[]
+2240,"['Northrop Grumman ', 'Time Warner ']"
+2241,"['ESS', 'ADP', 'BA', 'CI', 'ED', 'EA', 'EL', 'RE', 'ES', 'FE', 'IT', 'GE', 'IR', 'ICE', 'MA', 'MAT', 'RL', 'SO']"
+2242,[]
+2243,[]
+2244,[]
+2245,"['Corning ', 'Whirlpool ']"
+2246,[]
+2247,"['Northrop Grumman ', 'IR', 'NOC']"
+2248,"['McKesson ', 'MCK']"
+2249,['JNJ']
+2250,"['Concho Resources', 'CXO']"
+2251,"['Nordstrom', 'Target ']"
+2252,['DG']
+2253,[]
+2254,['PSX']
+2255,"['Red Hat ', 'MO']"
+2256,['Comcast ']
+2257,[]
+2258,[]
+2259,['Conagra Brands']
+2260,"['RE', 'IT']"
+2261,[]
+2262,"['ED', 'DRE', 'EW', 'EA', 'RE', 'ES', 'GE', 'IR', 'ICE', 'IRM', 'MA', 'UA']"
+2263,"['CA', 'Conagra Brands', 'CAG']"
+2264,[]
+2265,[]
+2266,[]
+2267,['Dollar General']
+2268,"['ADBE', 'KR', 'HSY', 'WMT', 'WM']"
+2269,[]
+2270,[]
+2271,"['Baxter International ', 'BAX', 'BA']"
+2272,[]
+2273,"['BlackRock', 'Franklin Resources', 'EW', 'BEN', 'BK']"
+2274,[]
+2275,"['Kinder Morgan', 'FE']"
+2276,[]
+2277,"['Pepsi', 'ED', 'EA', 'RE', 'GS', 'NI', 'PEP']"
+2278,[]
+2279,[]
+2280,[]
+2281,['Textron ']
+2282,['AVY']
+2283,[]
+2284,[]
+2285,"['Vulcan Materials', 'VMC']"
+2286,[]
+2287,"['Schlumberger ', 'UA']"
+2288,['Lam Research']
+2289,['Devon Energy ']
+2290,[]
+2291,['Roper Technologies']
+2292,"['MAR', 'MA']"
+2293,[]
+2294,"['NRG Energy', 'NRG']"
+2295,"['ESS', 'PayPal', 'MO', 'DE', 'EW', 'EA', 'RE', 'ES', 'IR', 'MON', 'PYPL']"
+2296,[]
+2297,"['CMS Energy', 'CMS', 'MS']"
+2298,['Delta Air Lines ']
+2299,['Fortive ']
+2300,[]
+2301,"['Rockwell Automation ', 'ROK']"
+2302,[]
+2303,[]
+2304,['Johnson Controls International']
+2305,[]
+2306,['Nike']
+2307,[]
+2308,"['RE', 'IT']"
+2309,[]
+2310,"['Mastercard ', 'Visa ']"
+2311,[]
+2312,['IT']
+2313,"['PVH ', 'PVH']"
+2314,[]
+2315,[]
+2316,[]
+2317,[]
+2318,['Skyworks Solutions']
+2319,[]
+2320,[]
+2321,['PG']
+2322,[]
+2323,['BBY']
+2324,[]
+2325,[]
+2326,[]
+2327,"['Intel ', 'Lam Research', 'Micron Technology', 'AMD', 'QCOM']"
+2328,['Comcast ']
+2329,"['Hess Corporation', 'ES', 'HES']"
+2330,['Target ']
+2331,['Morgan Stanley']
+2332,['Apple ']
+2333,['AAP']
+2334,[]
+2335,[]
+2336,"['RE', 'IT']"
+2337,['Lennar ']
+2338,['CenterPoint Energy']
+2339,['Halliburton ']
+2340,"['CA', 'ADM', 'CAG']"
+2341,[]
+2342,"['Varian Medical Systems', 'VAR']"
+2343,[]
+2344,[]
+2345,['Regeneron']
+2346,[]
+2347,"['Northrop Grumman ', 'NOC']"
+2348,[]
+2349,['Bank of America ']
+2350,[]
+2351,"['Apple ', 'Visa ']"
+2352,['DG']
+2353,[]
+2354,['Costco Wholesale ']
+2355,"['Advanced Micro Devices ', 'AMD']"
+2356,['Ventas ']
+2357,['Eversource Energy']
+2358,['NextEra Energy']
+2359,"['Aetna ', 'CVS']"
+2360,[]
+2361,[]
+2362,['Dollar Tree']
+2363,[]
+2364,[]
+2365,['Comcast ']
+2366,['Chipotle Mexican Grill']
+2367,[]
+2368,"['Chevron ', 'Exxon Mobil ', 'Occidental Petroleum']"
+2369,['PBCT']
+2370,[]
+2371,[]
+2372,[]
+2373,['IP']
+2374,[]
+2375,[]
+2376,[]
+2377,[]
+2378,['Nordstrom']
+2379,[]
+2380,['Berkshire Hathaway']
+2381,['Carnival ']
+2382,[]
+2383,['EA']
+2384,['Invesco ']
+2385,"['Allstate ', 'ALL']"
+2386,"['ResMed', 'RMD']"
+2387,[]
+2388,['Comcast ']
+2389,"['Kansas City Southern', 'Southern ']"
+2390,[]
+2391,['Corning ']
+2392,[]
+2393,['Home Depot']
+2394,['Anthem ']
+2395,[]
+2396,[]
+2397,"['Motorola Solutions ', 'ES']"
+2398,['Electronic Arts']
+2399,['Stryker ']
+2400,"['Equifax ', 'CF']"
+2401,['GT']
+2402,[]
+2403,['BlackRock']
+2404,[]
+2405,[]
+2406,"['CA', 'Caterpillar ', 'CAT', 'EW', 'IP', 'MU']"
+2407,['General Electric']
+2408,['Cisco Systems']
+2409,['Northern Trust ']
+2410,[]
+2411,['Fidelity National Information Services']
+2412,[]
+2413,['Salesforce']
+2414,['FFIV']
+2415,"['General Electric', 'United Technologies']"
+2416,[]
+2417,[]
+2418,[]
+2419,['Adobe Systems ']
+2420,"[' Plc', 'DE', 'EW', 'EL', 'LH']"
+2421,[]
+2422,"['Raytheon ', 'RTN']"
+2423,[]
+2424,[]
+2425,[]
+2426,"['Texas Instruments', 'TXN']"
+2427,['IT']
+2428,['Envision Healthcare']
+2429,"['Pepsi', 'ED', 'EA', 'RE', 'GS', 'NI', 'PEP']"
+2430,"['Dollar General', 'DG']"
+2431,['Texas Instruments']
+2432,['Celgene ']
+2433,['Equinix']
+2434,['Gap ']
+2435,"['COTY', 'Coty']"
+2436,[]
+2437,[]
+2438,[]
+2439,['EQT']
+2440,['Vertex Pharmaceuticals ']
+2441,[]
+2442,['Humana ']
+2443,['Wynn Resorts Ltd']
+2444,"['Broa', 'Hasbro ', 'Mattel ', 'AVGO', 'HAS', 'MA', 'MAT']"
+2445,"['Electronic Arts', 'EA']"
+2446,['Citigroup ']
+2447,[]
+2448,"['Nordstrom', 'JWN']"
+2449,[]
+2450,"['Cincinnati Financial', 'Seagate Technology', 'CI', 'CINF']"
+2451,"['Genuine Parts', 'GPC']"
+2452,['Sysco ']
+2453,['Campbell Soup']
+2454,"['AFLAC ', 'AFL', 'FL']"
+2455,['Boston Properties']
+2456,['Apple ']
+2457,[]
+2458,"['Southern ', 'SO']"
+2459,['ACN']
+2460,[]
+2461,[]
+2462,['Ulta Beauty']
+2463,[]
+2464,['GE']
+2465,"['Paychex ', 'PAYX']"
+2466,['Albemarle ']
+2467,[]
+2468,"['United Parcel Service', 'UPS']"
+2469,['Global Payments ']
+2470,[]
+2471,"['Foot Locker ', 'FL']"
+2472,"['Express Scripts', 'Intuit ', 'Southwest Airlines']"
+2473,['Visa ']
+2474,['NextEra Energy']
+2475,[]
+2476,"['Broa', 'SL Green Realty', 'SLG']"
+2477,"['Hewlett Packard Enterprise', 'HP', 'HPE']"
+2478,[]
+2479,['Apple ']
+2480,[]
+2481,"['American Airlines Group', 'AAL', 'INTC', 'MS']"
+2482,"['Broa', 'Hewlett Packard Enterprise', 'AVGO', 'HP', 'HPE']"
+2483,['CTAS']
+2484,['DowDuPont']
+2485,"['ED', 'PM']"
+2486,"['Extra Space Storage', 'EXR']"
+2487,"['National Oilwell Varco ', 'NOV']"
+2488,[]
+2489,"['Edwards Lifesciences', 'EW']"
+2490,"['FirstEnergy ', 'FE']"
+2491,"['LyondellBasell', 'LYB']"
+2492,[]
+2493,"['JPM', 'PM']"
+2494,['EW']
+2495,['Home Depot']
+2496,[]
+2497,['EW']
+2498,['Activision Blizzard']
+2499,[]
+2500,['Intuitive Surgical ']
+2501,"['Apple ', 'KO']"
+2502,['SNA']
+2503,['Starbucks ']
+2504,['UNM']
+2505,['Kimco Realty']
+2506,"['Anthem ', 'ANTM']"
+2507,[]
+2508,"['Advanced Micro Devices ', 'AMD', 'HP', 'HPE']"
+2509,['Halliburton ']
+2510,[]
+2511,['Ecolab ']
+2512,['Oracle ']
+2513,[]
+2514,[]
+2515,"['CA', 'Cardinal Health ', 'CAH']"
+2516,['KO']
+2517,['URI']
+2518,"['Allegion', 'CBRE', 'CB', 'RE']"
+2519,['USB']
+2520,['General Motors']
+2521,[]
+2522,['HD']
+2523,"['DowDuPont', 'DWDP']"
+2524,"['Becton Dickinson', 'AAP']"
+2525,[]
+2526,[]
+2527,[]
+2528,"['AMZN', 'NLSN']"
+2529,[]
+2530,['AWK']
+2531,"['Skyworks Solutions', 'SWKS', 'SWK']"
+2532,"['IR', 'IRM']"
+2533,[]
+2534,"['Cerner', 'CERN']"
+2535,[]
+2536,['Raytheon ']
+2537,['Cincinnati Financial']
+2538,"['Apple ', 'Salesforce']"
+2539,['Align Technology']
+2540,"['PXD', 'PX']"
+2541,[]
+2542,"['Broa', 'Paychex ', 'PAYX']"
+2543,"['HP ', 'HP']"
+2544,['EQT']
+2545,"['ORLY', 'RL']"
+2546,['FOX']
+2547,"['Baker Hughes', 'GE']"
+2548,"['Entergy ', 'FirstEnergy ', 'Pinnacle West Capital', 'EW', 'ETR', 'FE', 'PNW']"
+2549,[]
+2550,"['Dover ', 'DOV']"
+2551,['Assurant ']
+2552,['Comcast ']
+2553,"['Assurant ', 'AIZ']"
+2554,['Bank of America ']
+2555,[]
+2556,"['Progressive ', 'PG', 'PGR', 'TRV']"
+2557,['Garmin ']
+2558,"['CA', 'ALL', 'ED', 'EL', 'RE', 'IT', 'NI', 'REG', 'COL', 'WELL']"
+2559,[]
+2560,['Charter Communications']
+2561,[]
+2562,[]
+2563,[]
+2564,['Devon Energy ']
+2565,[]
+2566,['CA']
+2567,[]
+2568,[]
+2569,"['Kansas City Southern', 'Southern ']"
+2570,[]
+2571,"['Caterpillar ', 'Kellogg ', 'Kraft Heinz ', 'MetLife ']"
+2572,['TJX']
+2573,"['AAP', 'AAPL', 'BMY', 'GILD', 'NI']"
+2574,[]
+2575,['Chipotle Mexican Grill']
+2576,['Illinois Tool Works']
+2577,['Caterpillar ']
+2578,[]
+2579,[]
+2580,"['UDR ', 'UDR']"
+2581,[]
+2582,"['Target ', 'EW']"
+2583,[]
+2584,[]
+2585,['Textron ']
+2586,"['Hewlett Packard Enterprise', 'HP', 'HPE']"
+2587,['Apple ']
+2588,['Invesco ']
+2589,"['Target ', 'ARE', 'DE', 'EA', 'ETR', 'EL', 'RE', 'ES', 'GE', 'GS', 'IP', 'MA', 'MET', 'NI', 'COL']"
+2590,"['Occidental Petroleum', 'OXY']"
+2591,"['Ulta Beauty', 'ULTA']"
+2592,['Comcast ']
+2593,[]
+2594,[]
+2595,[]
+2596,"['RE', 'IT']"
+2597,[]
+2598,"['CMS', 'EW', 'RE', 'IR', 'MS']"
+2599,['Progressive ']
+2600,"['EA', 'GS', 'NI']"
+2601,"['International Business Machines', 'IBM']"
+2602,[]
+2603,"['Gap ', 'JPM', 'PM']"
+2604,['JEC']
+2605,['TRV']
+2606,"['Anthem ', 'Humana ']"
+2607,[]
+2608,"['Entergy ', 'AEP', 'WEC']"
+2609,['Ameriprise Financial']
+2610,"['Illumina ', 'CF', 'DE', 'XRAY', 'ILMN', 'IR', 'MS']"
+2611,['Carnival ']
+2612,['Microsoft ']
+2613,"['General Mills', 'Nike', 'Oracle ']"
+2614,['Invesco ']
+2615,['Morgan Stanley']
+2616,[]
+2617,['Ecolab ']
+2618,['Corning ']
+2619,"['Expeditors International', 'MS']"
+2620,[]
+2621,[]
+2622,"['NextEra Energy', 'NEE', 'PM']"
+2623,[]
+2624,[]
+2625,[]
+2626,[]
+2627,"['Apple ', 'Netflix ']"
+2628,"['EOG Resources', 'EOG']"
+2629,[]
+2630,"['General Dynamics', 'Visa ', 'Wells Fargo', 'PNC']"
+2631,['Carnival ']
+2632,"['General Dynamics', 'Northrop Grumman ', 'Raytheon ', 'Rockwell Collins']"
+2633,['DRI']
+2634,[]
+2635,['VAR']
+2636,['Pentair ']
+2637,"['EW', 'JPM', 'PM']"
+2638,"['CA', 'ESS', 'ES', 'EXPE', 'IT', 'NUE']"
+2639,[]
+2640,[]
+2641,['EA']
+2642,[]
+2643,['Lam Research']
+2644,['Norwegian Cruise Line']
+2645,['Edwards Lifesciences']
+2646,[]
+2647,"['Aetna ', 'CVS Health', 'CVS']"
+2648,['Principal Financial Group']
+2649,['Berkshire Hathaway']
+2650,['Tyson Foods']
+2651,"['Applied Materials ', 'LyondellBasell']"
+2652,[]
+2653,"['Booking Holdings ', 'TripAdvisor']"
+2654,[]
+2655,['Perrigo']
+2656,"['RE', 'IT']"
+2657,['IT']
+2658,['Autodesk ']
+2659,"['Morgan Stanley', 'EW']"
+2660,['Oracle ']
+2661,"['Dover ', 'DOV']"
+2662,"['Netflix ', 'MAR', 'MA']"
+2663,['Nektar Therapeutics']
+2664,"['Alexandria Real Estate Equities ', 'ARE', 'RE']"
+2665,[]
+2666,['BMY']
+2667,[]
+2668,[]
+2669,"['International Paper', 'IP']"
+2670,[]
+2671,[]
+2672,['Activision Blizzard']
+2673,[]
+2674,['Citigroup ']
+2675,"['Morgan Stanley', 'LOW']"
+2676,[]
+2677,['Garmin ']
+2678,[]
+2679,['Fluor ']
+2680,"['DowDuPont', 'DWDP']"
+2681,"['AFL', 'FL']"
+2682,[]
+2683,['Rockwell Automation ']
+2684,['Invesco ']
+2685,"['Apple ', 'Intel ', 'Microsoft ', 'Visa ']"
+2686,"['Comcast ', ' Plc', 'EW']"
+2687,[]
+2688,[]
+2689,[]
+2690,[]
+2691,[]
+2692,[]
+2693,[]
+2694,[]
+2695,[]
+2696,"['Broa', 'AVGO']"
+2697,['Symantec ']
+2698,['MHK']
+2699,['APA']
+2700,[]
+2701,[]
+2702,['PayPal']
+2703,[]
+2704,['EW']
+2705,"['Medtronic plc', 'MDT']"
+2706,[]
+2707,[]
+2708,[]
+2709,[]
+2710,"['CI', 'IT']"
+2711,['BA']
+2712,[]
+2713,['Albemarle ']
+2714,[]
+2715,['Albemarle ']
+2716,[]
+2717,['MA']
+2718,"['NRG Energy', 'NRG']"
+2719,[]
+2720,['Royal Caribbean Cruises Ltd']
+2721,['Intercontinental Exchange']
+2722,"['Aetna ', 'CVS Health', 'CVS']"
+2723,"['CA', 'ES', 'LLL']"
+2724,[]
+2725,['Hilton Worldwide Holdings ']
+2726,"['Cerner', 'CERN']"
+2727,"['WY', 'WYN', 'WYNN']"
+2728,['Exelon ']
+2729,"['RE', 'IT']"
+2730,['Wells Fargo']
+2731,['Morgan Stanley']
+2732,"['SunTrust Banks', 'STI']"
+2733,"['Nucor ', 'NUE']"
+2734,[]
+2735,[]
+2736,['GM']
+2737,"['Macerich', 'MAC', 'MA']"
+2738,['Pepsi']
+2739,"['DISH', 'DIS']"
+2740,"['PerkinElmer', 'MU', 'PKI']"
+2741,"['PPL ', 'PPL']"
+2742,"['DE', 'EW', 'EL', 'LH', 'MS', 'MSI']"
+2743,['Salesforce']
+2744,[]
+2745,['Express Scripts']
+2746,[]
+2747,"['Becton Dickinson', 'JPM', 'PM']"
+2748,['Key']
+2749,[]
+2750,[]
+2751,['Apple ']
+2752,['Nektar Therapeutics']
+2753,['Garmin ']
+2754,['AAL']
+2755,[]
+2756,"['CBS ', 'ARE', 'CBS', 'CB', 'ED', 'DE', 'RE', 'IT', 'GE', 'GS', 'UA']"
+2757,['Baker Hughes']
+2758,[]
+2759,[]
+2760,[]
+2761,"['Alexion Pharmaceuticals', 'ALXN']"
+2762,[]
+2763,[' Plc']
+2764,['AEP']
+2765,[]
+2766,[]
+2767,['Envision Healthcare']
+2768,"['CSX ', 'CSX', 'ES', 'RL']"
+2769,['LOW']
+2770,['EW']
+2771,"['AFL', 'FL']"
+2772,[]
+2773,['Home Depot']
+2774,['Oracle ']
+2775,['Qorvo']
+2776,[]
+2777,[]
+2778,[]
+2779,['Kraft Heinz ']
+2780,['Oracle ']
+2781,['Expeditors International']
+2782,"['Caterpillar ', 'Kellogg ', 'Kraft Heinz ', 'MetLife ']"
+2783,"['The Travelers Companies ', 'TRV']"
+2784,['Baker Hughes']
+2785,"['CA', 'Caterpillar ', 'CAT']"
+2786,['Hanesbrands ']
+2787,"['DE', 'IR']"
+2788,[]
+2789,"['Sempra Energy', 'RE', 'SRE']"
+2790,"['Federal Realty Investment Trust', 'FRT']"
+2791,[]
+2792,[]
+2793,"['Unum Group', 'UNM']"
+2794,[]
+2795,[]
+2796,[]
+2797,[]
+2798,['AIG']
+2799,"['Corning ', 'GLW']"
+2800,[]
+2801,[]
+2802,[]
+2803,['Akamai Technologies ']
+2804,[]
+2805,[]
+2806,"['Martin Marietta Materials', 'MLM']"
+2807,['BlackRock']
+2808,['Western Digital']
+2809,"['Nucor ', 'NUE']"
+2810,['Equifax ']
+2811,[]
+2812,"['EW', 'RE', 'FFIV', 'IR', 'IRM']"
+2813,[]
+2814,['NSC']
+2815,[]
+2816,['Ameren ']
+2817,"['Southwest Airlines', 'LUV']"
+2818,[]
+2819,['FB']
+2820,[]
+2821,[]
+2822,['IP']
+2823,"['Occidental Petroleum', 'OXY']"
+2824,[]
+2825,[]
+2826,"['Nielsen Holdings', ' Plc', 'NLSN']"
+2827,"['Kinder Morgan', 'KMI']"
+2828,[]
+2829,['Nordstrom']
+2830,['PG']
+2831,"['Tyson Foods', 'TSN']"
+2832,['Comcast ']
+2833,[]
+2834,['Kellogg ']
+2835,"['Sempra Energy', 'RE', 'SRE']"
+2836,['Chipotle Mexican Grill']
+2837,['Allergan']
+2838,[]
+2839,[]
+2840,[]
+2841,['Mettler Toledo']
+2842,[]
+2843,"['Caterpillar ', 'Kellogg ', 'Kraft Heinz ', 'MetLife ']"
+2844,[]
+2845,[]
+2846,['DaVita ']
+2847,"['CB', 'EA']"
+2848,"['Broa', 'Monster Beverage']"
+2849,[]
+2850,[]
+2851,['Alaska Air Group ']
+2852,[]
+2853,[]
+2854,"['MO', 'EW']"
+2855,[]
+2856,"['Akamai Technologies ', 'AKAM']"
+2857,"['CHRW', 'COO']"
+2858,[]
+2859,"['PPL ', 'DE', 'RE', 'ES', 'IR', 'IRM', 'MA', 'PPL']"
+2860,"['EA', 'GS', 'NI']"
+2861,['Oracle ']
+2862,['Rockwell Collins']
+2863,"['International Paper', 'IP']"
+2864,"['CL', 'RCL']"
+2865,['Mastercard ']
+2866,['Celgene ']
+2867,[]
+2868,[]
+2869,[]
+2870,['Texas Instruments']
+2871,['Ball ']
+2872,[]
+2873,['Tractor Supply Company']
+2874,[]
+2875,[]
+2876,[]
+2877,"['Express Scripts', 'Walgreens Boots Alliance', 'ES', 'ESRX']"
+2878,[]
+2879,[]
+2880,[]
+2881,[]
+2882,"['Vertex Pharmaceuticals ', 'VRTX']"
+2883,[]
+2884,['APC']
+2885,['Avery Dennison ']
+2886,"['IDEXX Laboratories', 'DE', 'IDXX']"
+2887,['Nucor ']
+2888,[]
+2889,['Corning ']
+2890,['Microsoft ']
+2891,[]
+2892,"['CBS ', 'CBS', 'CB']"
+2893,"['CME Group ', 'CME']"
+2894,"['Stryker ', 'SYK']"
+2895,[]
+2896,['Wells Fargo']
+2897,['Expedia ']
+2898,[]
+2899,[]
+2900,[]
+2901,[]
+2902,['CA']
+2903,[]
+2904,['Illumina ']
+2905,['General Electric']
+2906,"['FB', 'CBS ', 'CBS', 'CB']"
+2907,[]
+2908,"['United Parcel Service', 'UPS']"
+2909,['Eversource Energy']
+2910,[]
+2911,['Baker Hughes']
+2912,[]
+2913,[]
+2914,"['Delta Air Lines ', 'EW']"
+2915,"['Federal Realty Investment Trust', 'FRT']"
+2916,['FB']
+2917,['Goldman Sachs Group']
+2918,['Goldman Sachs Group']
+2919,['L Brands ']
+2920,"['DXC Technology', 'DXC']"
+2921,[]
+2922,[]
+2923,[]
+2924,['Morgan Stanley']
+2925,[]
+2926,"['Lincoln National', 'LNC']"
+2927,[]
+2928,"['EA', 'GS', 'NI']"
+2929,[]
+2930,"['Target ', 'GE']"
+2931,[]
+2932,"['Vornado Realty Trust', 'RE', 'IT']"
+2933,[]
+2934,[]
+2935,[]
+2936,"['Microsoft ', 'Union Pacific']"
+2937,['PNC']
+2938,"['Equity Residential', 'EQR']"
+2939,['Mettler Toledo']
+2940,"['BEN', 'IT']"
+2941,[]
+2942,['CF']
+2943,['Synchrony Financial']
+2944,['Kinder Morgan']
+2945,[]
+2946,"['AbbVie ', 'Gilead Sciences']"
+2947,['Nordstrom']
+2948,[]
+2949,[]
+2950,[]
+2951,[]
+2952,['General Mills']
+2953,[]
+2954,['AON']
+2955,['National Oilwell Varco ']
+2956,"['Duke Realty ', 'DRE', 'RE']"
+2957,[]
+2958,[]
+2959,[]
+2960,"['Applied Materials ', 'Cerner']"
+2961,['Alphabet Inc Class A']
+2962,"['The Hershey Company', 'HSY']"
+2963,[]
+2964,"['Ulta Beauty', 'ULTA']"
+2965,[]
+2966,[]
+2967,"['Tyson Foods', 'ADM', 'BA', 'DE', 'TSN']"
+2968,[]
+2969,[]
+2970,['AIG']
+2971,['Nucor ']
+2972,[]
+2973,"['Synchrony Financial', 'ARE', 'CI', 'EA', 'RE', 'MAR', 'MA']"
+2974,"['Stericycle ', 'CL', 'RCL', 'SRCL']"
+2975,[]
+2976,[]
+2977,[]
+2978,[]
+2979,['Nike']
+2980,"['Duke Realty ', 'DRE', 'RE']"
+2981,"['Nike', 'NKE']"
+2982,['Cummins ']
+2983,[]
+2984,"['Broa', 'Intel ']"
+2985,['Weyerhaeuser ']
+2986,[]
+2987,"['Applied Materials ', 'Broa']"
+2988,"['PPG Industries', 'PPG', 'PG']"
+2989,[]
+2990,[]
+2991,[]
+2992,['Noble Energy ']
+2993,"['Verisk Analytics', 'VRSK']"
+2994,"['MO', 'DE', 'GE', 'ROP']"
+2995,"['Celgene ', 'Illumina ']"
+2996,[]
+2997,[]
+2998,['Paychex ']
+2999,[]
